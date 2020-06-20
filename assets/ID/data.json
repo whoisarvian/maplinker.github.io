@@ -1,0 +1,2371 @@
+[
+  {
+    "ID": 1,
+    "kode": 85,
+    "Propinsi": "IRIAN JAYA TIMUR",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "color":"green",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 2,
+    "kode": 52,
+    "Propinsi": "NUSATENGGARA BARAT",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 3,
+    "kode": 75,
+    "Propinsi": "GORONTALO",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 4,
+    "kode": 74,
+    "Propinsi": "SULAWESI TENGGARA",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 5,
+    "kode": 34,
+    "Propinsi": "DAERAH ISTIMEWA YOGYAKARTA",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 6,
+    "kode": 3329,
+    "Propinsi": "JAWA TENGAH",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 7,
+    "kode": 36,
+    "Propinsi": "PROBANTEN",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 8,
+    "kode": 35,
+    "Propinsi": "JAWA TIMUR",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 9,
+    "kode": 81,
+    "Propinsi": "MALUKU UTARA",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 10,
+    "kode": 82,
+    "Propinsi": "MALUKU",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 11,
+    "kode": 63,
+    "Propinsi": "KALIMANTAN SELATAN",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 12,
+    "kode": 0,
+    "Propinsi": "KALIMANTAN BARAT",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 13,
+    "kode": 73,
+    "Propinsi": "SULAWESI SELATAN",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 14,
+    "kode": 31,
+    "Propinsi": "DKI JAKARTA",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 15,
+    "kode": 32,
+    "Propinsi": "JAWA BARAT",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 16,
+    "kode": 84,
+    "Propinsi": "IRIAN JAYA TENGAH",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 17,
+    "kode": 53,
+    "Propinsi": "NUSA TENGGARA TIMUR",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 18,
+    "kode": 51,
+    "Propinsi": "BALI",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 19,
+    "kode": 14,
+    "Propinsi": "RIAU",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 20,
+    "kode": 72,
+    "Propinsi": "SULAWESI TENGAH",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 21,
+    "kode": 64,
+    "Propinsi": "KALIMANTAN TIMUR",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 22,
+    "kode": 71,
+    "Propinsi": "SULAWESI UTARA",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 23,
+    "kode": 83,
+    "Propinsi": "IRIAN JAYA BARAT",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 24,
+    "kode": 12,
+    "Propinsi": "SUMATERA UTARA",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 25,
+    "kode": 19,
+    "Propinsi": "BANGKA BELITUNG",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 26,
+    "kode": 13,
+    "Propinsi": "SUMATERA BARAT",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 27,
+    "kode": 0,
+    "Propinsi": "KALIMANTAN TENGAH",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 28,
+    "kode": 16,
+    "Propinsi": "SUMATERA SELATAN",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 29,
+    "kode": 15,
+    "Propinsi": "JAMBI",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 30,
+    "kode": 18,
+    "Propinsi": "LAMPUNG",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 31,
+    "kode": 17,
+    "Propinsi": "BENGKULU",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  },
+  {
+    "ID": 32,
+    "kode": 11,
+    "Propinsi": "DI. ACEH",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  }
+]

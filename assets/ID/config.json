@@ -1,0 +1,31 @@
+{
+    "title":"INDONESIA",
+    "navbarColor":"primary",
+    "mapDefault":{
+        "fill":"rgba(114, 114, 114, 0.5)",
+        "stroke":{
+            "color":"white",
+            "width":2
+        }
+    },
+    "mapSelected":{
+        "fill":"rgba(255, 0, 0, 0.6)",
+        "stroke":{
+            "color":"yellow",
+            "width":2
+        }
+    },
+    "mapHover":{
+        "fill":"rgba(255, 0, 0, 0.3)",
+        "stroke":{
+            "color":"white",
+            "width":2
+        }
+    },
+    "labelColor":{
+        "background":"blue",
+        "text":"white"
+    },
+    "showMapTile":false,
+    "showMarkers":true
+}
