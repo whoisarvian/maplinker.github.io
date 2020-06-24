@@ -1,0 +1,62 @@
+// 20200624211730
+// https://dl.ioconvert.com/document/20200624140442cea9ba5a289347b086f4dafacc8be23e/proyeksi-jumlah-kelahiran-penduduk545dc278f21f443f2ed9d33eac124e8b.json
+
+[
+    [{
+            "Title": "Proyeksi Jumlah Kelahiran Penduduk",
+            "Provinsi": "DKI Jakarta",
+            "DKI Jakarta": "166200.00",
+            "Satuan": "jiwa",
+            "Tanggal": "2015-12-31",
+            "Sumber": "Badan Pusat Statistik (BPS)"
+        },
+        {
+            "Title": "Proyeksi Jumlah Kelahiran Penduduk",
+            "Provinsi": "DKI Jakarta",
+            "DKI Jakarta": "164500.00",
+            "Satuan": "jiwa",
+            "Tanggal": "2020-12-31",
+            "Sumber": "Badan Pusat Statistik (BPS)"
+        },
+        {
+            "Title": "Proyeksi Jumlah Kelahiran Penduduk",
+            "Provinsi": "DKI Jakarta",
+            "DKI Jakarta": "158900.00",
+            "Satuan": "jiwa",
+            "Tanggal": "2025-12-31",
+            "Sumber": "Badan Pusat Statistik (BPS)"
+        },
+        {
+            "Title": "Proyeksi Jumlah Kelahiran Penduduk",
+            "Provinsi": "DKI Jakarta",
+            "DKI Jakarta": "151600.00",
+            "Satuan": "jiwa",
+            "Tanggal": "2030-12-31",
+            "Sumber": "Badan Pusat Statistik (BPS)"
+        },
+        {
+            "Title": "Proyeksi Jumlah Kelahiran Penduduk",
+            "Provinsi": "DKI Jakarta",
+            "DKI Jakarta": "148400.00",
+            "Satuan": "jiwa",
+            "Tanggal": "2035-12-31",
+            "Sumber": "Badan Pusat Statistik (BPS)"
+        },
+        {
+            "Title": "Proyeksi Jumlah Kelahiran Penduduk",
+            "Provinsi": "DKI Jakarta",
+            "DKI Jakarta": "149900.00",
+            "Satuan": "jiwa",
+            "Tanggal": "2040-12-31",
+            "Sumber": "Badan Pusat Statistik (BPS)"
+        },
+        {
+            "Title": "Proyeksi Jumlah Kelahiran Penduduk",
+            "Provinsi": "DKI Jakarta",
+            "DKI Jakarta": "150600.00",
+            "Satuan": "jiwa",
+            "Tanggal": "2045-12-31",
+            "Sumber": "Badan Pusat Statistik (BPS)"
+        }
+    ]
+]
