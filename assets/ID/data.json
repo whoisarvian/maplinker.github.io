@@ -1656,11 +1656,11 @@
     "Propinsi": "KALIMANTAN TIMUR",
     "SUMBER": "Badan Pusat Statistik Provinsi Kalimantan Timur",
     "charts": [{
-        "title": "Banyaknya Kecamatan",
+        "title": "Bar Chart",
         "type": "BarChart",
         "columns": [
           "Label",
-          "Kecamatan"
+          "Banyak Kecamatan"
         ],
         "data": [
           [
@@ -1710,19 +1710,48 @@
         "type": "ScatterChart",
         "columns": [
           "Label",
-          "Data 1",
-          "Data 2"
+          "Banyak Kecamatan"
         ],
         "data": [
           [
-            "Label 1",
-            23,
-            56
+            "2006",
+            98
           ],
           [
-            "Label 2",
-            34,
-            56
+            "2007",
+            97
+          ],
+          [
+            "2008",
+            98
+          ],
+          [
+            "2009",
+            98
+          ],
+          [
+            "2010",
+            102
+          ],
+          [
+            "2011",
+            102
+          ],
+          [
+            "2012",
+            103
+          ],
+          [
+            "2013",
+            103
+          ],
+          [
+            "2014",
+            103
+          ],
+          [
+            "2015",
+            103
           ]
         ]
       },
@@ -1731,19 +1760,48 @@
         "type": "LineChart",
         "columns": [
           "Label",
-          "Data 1",
-          "Data 2"
+          "Banyak Kecamatan"
         ],
         "data": [
           [
-            "Label 1",
-            23,
-            56
+            "2006",
+            98
           ],
           [
-            "Label 2",
-            34,
-            56
+            "2007",
+            97
+          ],
+          [
+            "2008",
+            98
+          ],
+          [
+            "2009",
+            98
+          ],
+          [
+            "2010",
+            102
+          ],
+          [
+            "2011",
+            102
+          ],
+          [
+            "2012",
+            103
+          ],
+          [
+            "2013",
+            103
+          ],
+          [
+            "2014",
+            103
+          ],
+          [
+            "2015",
+            103
           ]
         ]
       }
