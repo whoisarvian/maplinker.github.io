@@ -2603,3 +2603,79 @@
     ]
   }
 ]
+ },
+  {
+    "ID": 33,
+    "kode": 11,
+    "Propinsi": "MALUKU UTARA",
+    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "charts": [
+      {
+        "title": "Bar Charts",
+        "type": "BarChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Scatter Charts",
+        "type": "ScatterChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      },
+      {
+        "title": "Line Charts",
+        "type": "LineChart",
+        "columns": [
+          "Label",
+          "Data 1",
+          "Data 2"
+        ],
+        "data": [
+          [
+            "Label 1",
+            23,
+            56
+          ],
+          [
+            "Label 2",
+            34,
+            56
+          ]
+        ]
+      }
+    ],
+    "markers": [
+      
+    ]
+  }
+]
