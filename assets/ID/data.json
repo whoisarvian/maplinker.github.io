@@ -1534,7 +1534,7 @@
     "ID": 21,
     "kode": 64,
     "Propinsi": "KALIMANTAN TIMUR",
-    "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+    "SUMBER": "Badan Pusat Statistik Provinsi Kalimantan Timur",
     "charts": [{
         "title": "Banyaknya Kecamatan",
         "type": "BarChart",
