@@ -1536,23 +1536,52 @@
     "Propinsi": "KALIMANTAN TIMUR",
     "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
     "charts": [{
-        "title": "Bar Charts",
+        "title": "Banyaknya Kecamatan",
         "type": "BarChart",
         "columns": [
           "Label",
-          "Data 1",
-          "Data 2"
+          "Kecamatan"
         ],
         "data": [
           [
-            "Label 1",
-            23,
-            56
+            "2006",
+            98
           ],
           [
-            "Label 2",
-            34,
-            56
+            "2007",
+            97
+          ],
+          [
+            "2008",
+            98
+          ],
+          [
+            "2009",
+            98
+          ],
+          [
+            "2010",
+            102
+          ],
+          [
+            "2011",
+            102
+          ],
+          [
+            "2012",
+            103
+          ],
+          [
+            "2013",
+            103
+          ],
+          [
+            "2014",
+            103
+          ],
+          [
+            "2015",
+            103
           ]
         ]
       },
