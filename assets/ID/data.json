@@ -149,8 +149,8 @@
                 "type": "BarChart",
                 "columns": ["Label", "SDN Layak", "SDN Tidak Layak"],
                 "data": [
-                    ["Label 1", 4.498‬, 1.322‬]
-
+                    ["Label 1", 2322, 5699],
+                    ["Label 2", 34, 56]
                 ]
             },
             {
