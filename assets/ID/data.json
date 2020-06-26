@@ -374,19 +374,52 @@
         "type": "BarChart",
         "columns": [
           "Label",
-          "Data 1",
-          "Data 2"
+          "RSU Pemerintah",
+          "RSU Swasta",
+          "RS Khusus Pemerintah",
+          "RS Khusus Swasta",
+          "RS TNI / Polri"
         ],
         "data": [
           [
-            "Label 1",
-            23,
-            56
+            "Kelas A",
+            3,
+            0,
+            6,
+            0,
+            0
           ],
           [
-            "Label 2",
-            34,
-            56
+            "Kelas BP",
+            8,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            "Kelas B",
+            15,
+            7,
+            1,
+            0,
+            1
+          ],
+          [
+            "Kelas C",
+            27,
+            66,
+            1,
+            35,
+            2
+          ],
+          [
+            "Kelas D",
+            4,
+            113,
+            0,
+            0,
+            8
           ]
         ]
       },
@@ -395,19 +428,52 @@
         "type": "ScatterChart",
         "columns": [
           "Label",
-          "Data 1",
-          "Data 2"
+          "RSU Pemerintah",
+          "RSU Swasta",
+          "RS Khusus Pemerintah",
+          "RS Khusus Swasta",
+          "RS TNI / Polri"
         ],
         "data": [
           [
-            "Label 1",
-            23,
-            56
+            "Kelas A",
+            3,
+            0,
+            6,
+            0,
+            0
           ],
           [
-            "Label 2",
-            34,
-            56
+            "Kelas BP",
+            8,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            "Kelas B",
+            15,
+            7,
+            1,
+            0,
+            1
+          ],
+          [
+            "Kelas C",
+            27,
+            66,
+            1,
+            35,
+            2
+          ],
+          [
+            "Kelas D",
+            4,
+            113,
+            0,
+            0,
+            8
           ]
         ]
       },
@@ -416,19 +482,52 @@
         "type": "LineChart",
         "columns": [
           "Label",
-          "Data 1",
-          "Data 2"
+          "RSU Pemerintah",
+          "RSU Swasta",
+          "RS Khusus Pemerintah",
+          "RS Khusus Swasta",
+          "RS TNI / Polri"
         ],
         "data": [
           [
-            "Label 1",
-            23,
-            56
+            "Kelas A",
+            3,
+            0,
+            6,
+            0,
+            0
           ],
           [
-            "Label 2",
-            34,
-            56
+            "Kelas BP",
+            8,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            "Kelas B",
+            15,
+            7,
+            1,
+            0,
+            1
+          ],
+          [
+            "Kelas C",
+            27,
+            66,
+            1,
+            35,
+            2
+          ],
+          [
+            "Kelas D",
+            4,
+            113,
+            0,
+            0,
+            8
           ]
         ]
       }
