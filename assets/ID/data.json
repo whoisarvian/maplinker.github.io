@@ -729,30 +729,54 @@
         "Propinsi": "BALI",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Jumlah Wisatawan Asean yang berkunjung ke Bali di Tahun 2020",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Bulan",
+                            "Malaysia",
+                            "Myanmar",
+                            "Filipina",
+                            "Singapura",
+                            "Thailand"],
+
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Januari", 14653, 906, 7409, 11442, 3252],
+                    ["Februari", 10650, 542, 6290,  6931,  3654],
+                    ["Maret", 5620, 360, 2560, 4226, 1036],
+                    ["April", 1, 1, 53, 1, 6]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Jumlah Wisatawan Asean yang berkunjung ke Bali di Tahun 2020",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Bulan",
+                            "Malaysia",
+                            "Myanmar",
+                            "Filipina",
+                            "Singapura",
+                            "Thailand"],
+
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Januari", 14653, 906, 7409, 11442, 3252],
+                    ["Februari", 10650, 542, 6290,  6931,  3654],
+                    ["Maret", 5620, 360, 2560, 4226, 1036],
+                    ["April", 1, 1, 53, 1, 6]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Jumlah Wisatawan Asean yang berkunjung ke Bali di Tahun 2020",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Bulan",
+                            "Malaysia",
+                            "Myanmar",
+                            "Filipina",
+                            "Singapura",
+                            "Thailand"],
+
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Januari", 14653, 906, 7409, 11442, 3252],
+                    ["Februari", 10650, 542, 6290,  6931,  3654],
+                    ["Maret", 5620, 360, 2560, 4226, 1036],
+                    ["April", 1, 1, 53, 1, 6]
                 ]
             }
         ],
