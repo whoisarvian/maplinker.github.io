@@ -180,60 +180,48 @@
         "Propinsi": "JAWA TENGAH",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Penjualan Tenaga Listrik Menurut Unit PLN di Provinsi Jawa Tengah",
                 "type": "BarChart",
                 "columns": [
-                    "Label",
-                    "RSU Pemerintah",
-                    "RSU Swasta",
-                    "RS Khusus Pemerintah",
-                    "RS Khusus Swasta",
-                    "RS TNI / Polri"
+                    "Tahun",
+                    "Jual",
+                    "Daya(KVA)",
+                    "Pelanggan"
                 ],
                 "data": [
-                    ["Kelas A", 3, 0, 6, 0, 0],
-                    ["Kelas BP", 8, 1, 0, 0, 0],
-                    ["Kelas B", 15, 7, 1, 0, 1],
-                    ["Kelas C", 27, 66, 1, 35, 2],
-                    ["Kelas D", 4, 113, 0, 0, 8]
+                    ["2015",20407997,10485468,8866323],
+                    ["2014",19631475,9836454,8456230],
+                    ["2013",18205067,9212025,8092964]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Penjualan Tenaga Listrik Menurut Unit PLN di Provinsi Jawa Tengah",
                 "type": "ScatterChart",
                 "columns": [
-                    "Label",
-                    "RSU Pemerintah",
-                    "RSU Swasta",
-                    "RS Khusus Pemerintah",
-                    "RS Khusus Swasta",
-                    "RS TNI / Polri"
+                    "Tahun",
+                    "Jual",
+                    "Daya(KVA)",
+                    "Pelanggan"
                 ],
                 "data": [
-                    ["Kelas A", 3, 0, 6, 0, 0],
-                    ["Kelas BP", 8, 1, 0, 0, 0],
-                    ["Kelas B", 15, 7, 1, 0, 1],
-                    ["Kelas C", 27, 66, 1, 35, 2],
-                    ["Kelas D", 4, 113, 0, 0, 8]
+                    ["2015",20407997,10485468,8866323],
+                    ["2014",19631475,9836454,8456230],
+                    ["2013",18205067,9212025,8092964]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Penjualan Tenaga Listrik Menurut Unit PLN di Provinsi Jawa Tengah",
                 "type": "LineChart",
                 "columns": [
-                    "Label",
-                    "RSU Pemerintah",
-                    "RSU Swasta",
-                    "RS Khusus Pemerintah",
-                    "RS Khusus Swasta",
-                    "RS TNI / Polri"
+                    "Tahun",
+                    "Jual",
+                    "Daya(KVA)",
+                    "Pelanggan"
                 ],
                 "data": [
-                    ["Kelas A", 3, 0, 6, 0, 0],
-                    ["Kelas BP", 8, 1, 0, 0, 0],
-                    ["Kelas B", 15, 7, 1, 0, 1],
-                    ["Kelas C", 27, 66, 1, 35, 2],
-                    ["Kelas D", 4, 113, 0, 0, 8]
+                    ["2015",20407997,10485468,8866323],
+                    ["2014",19631475,9836454,8456230],
+                    ["2013",18205067,9212025,8092964]
                 ]
             },
             {
