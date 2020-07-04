@@ -1123,30 +1123,86 @@
         "Propinsi": "SUMATERA SELATAN",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Statistik Kontribusi Produksi Komoditas Sektor Pertanian SUMSEL 2019 (dalam Ton)",
+                "type": "PieChart",
+                "columns": ["Label", "Data 1"],
+                "data": [
+                    ["Tanaman Pangan", 3888229.44],
+                    ["Hortikultura", 70031.191],
+                    ["Perkebunan", 5072685.23]
+                ]
+            },
+            {
+                "title": "Produksi Jenis Tanaman Pangan Prov.SUMSEL Th.2019",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Label", "Hasil Produksi(Ton)"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Padi", 2603396.24],
+                    ["Jagung", 1030994],
+                    ["Kedelai", 15751],
+                    ["Kacang Tanah", 1995],
+                    ["Kacang Hijau", 992],
+                    ["Ubi Kayu", 220078],
+                    ["Ubi Jalar", 15023]
+                ]
+            },
+             {
+                "title": "Luas Lahan Jenis Tanaman Pangan Prov.SUMSEL Th.2019",
+                "type": "BarChart",
+                "columns": ["Label", "Luas Lahan(Hektar)"],
+                "data": [
+                    ["Padi", 539316.52],
+                    ["Jagung", 152265],
+                    ["Kedelai", 12625],
+                    ["Kacang Tanah", 1251],
+                    ["Kacang Hijau", 726],
+                    ["Ubi Kayu", 7196],
+                    ["Ubi Jalar", 951]
                 ]
             },
             {
-                "title": "Scatter Charts",
-                "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "title": "Produksi Jenis Tanaman Hortikultura Prov.SUMSEL Th.2019",
+                "type": "BarChart",
+                "columns": ["Label", "Hasil Produksi(Ton)"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Bawang Merah", 1390],
+                    ["Cabe", 51492.1],
+                    ["Kentang", 672.4],
+                    ["Kubis", 6846.9],
+                    ["Petsai", 4140.5],
+                    ["Kunyit", 2003.19],
+                    ["Kencur", 604.691],
+                    ["Laos", 1532.785],
+                    ["Jahe", 1348.625]
                 ]
             },
             {
-                "title": "Line Charts",
-                "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "title": "Luas Lahan Jenis Tanaman Hortikultura Prov.SUMSEL Th.2019",
+                "type": "BarChart",
+                "columns": ["Label", "Luas Lahan(Hektar)"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Bawang Merah", 172],
+                    ["Cabe", 6474],
+                    ["Kentang", 68],
+                    ["Kubis", 510],
+                    ["Petsai", 487],
+                    ["Kunyit", 885481],
+                    ["Kencur", 413460],
+                    ["Laos", 654778],
+                    ["Jahe", 784023]
+                ]
+            },
+            {
+                "title": "Produksi Jenis Tanaman Pada Perkebunan Prov.SUMSEL Th.2019",
+                "type": "BarChart",
+                "columns": ["Label", "Hasil Produksi(Ton)", "Luas Lahan(Hektar)"],
+                "data": [
+                    ["Karet", 905789, 1305699],
+                    ["Kelapa", 55367, 64750],
+                    ["Kelapa Sawit", 3826784, 1193766],
+                    ["Kopi", 181294, 249981],
+                    ["Kakao", 3943, 12276],
+                    ["Lainnya..", 99508.23, 49764]
                 ]
             }
         ],
