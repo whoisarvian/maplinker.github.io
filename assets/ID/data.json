@@ -148,8 +148,10 @@
                 "type": "BarChart",
                 "columns": ["Label", "SDN Layak", "SDN Tidak Layak"],
                 "data": [
-                    ["Label 1", 2322, 5699],
-                    ["Label 2", 34, 56]
+                    ["2019", 1025, 432],
+                    ["2018", 1025, 434],
+                    ["2017", 1001, 456],
+                    ["2016", 1447, 0]
                 ]
             },
             {
@@ -171,7 +173,7 @@
                 ]
             }
         ],
-        "color":"green",
+        "color": "green",
         "markers": []
     },
     {
@@ -189,9 +191,9 @@
                     "Pelanggan"
                 ],
                 "data": [
-                    ["2015",20407997,10485468,8866323],
-                    ["2014",19631475,9836454,8456230],
-                    ["2013",18205067,9212025,8092964]
+                    ["2015", 20407997, 10485468, 8866323],
+                    ["2014", 19631475, 9836454, 8456230],
+                    ["2013", 18205067, 9212025, 8092964]
                 ]
             },
             {
@@ -204,9 +206,9 @@
                     "Pelanggan"
                 ],
                 "data": [
-                    ["2015",20407997,10485468,8866323],
-                    ["2014",19631475,9836454,8456230],
-                    ["2013",18205067,9212025,8092964]
+                    ["2015", 20407997, 10485468, 8866323],
+                    ["2014", 19631475, 9836454, 8456230],
+                    ["2013", 18205067, 9212025, 8092964]
                 ]
             },
             {
@@ -219,9 +221,9 @@
                     "Pelanggan"
                 ],
                 "data": [
-                    ["2015",20407997,10485468,8866323],
-                    ["2014",19631475,9836454,8456230],
-                    ["2013",18205067,9212025,8092964]
+                    ["2015", 20407997, 10485468, 8866323],
+                    ["2014", 19631475, 9836454, 8456230],
+                    ["2013", 18205067, 9212025, 8092964]
                 ]
             },
             {
@@ -264,7 +266,7 @@
                 ]
             }
         ],
-        "color":"green",
+        "color": "green",
         "markers": []
     },
     {
@@ -368,7 +370,7 @@
                 ]
             }
         ],
-        "color":"green",
+        "color": "green",
         "markers": []
     },
     {
@@ -606,7 +608,7 @@
                 ]
             }
         ],
-        "color":"green",
+        "color": "green",
         "markers": []
     },
     {
@@ -723,15 +725,16 @@
                 "title": "Jumlah Wisatawan Asean yang berkunjung ke Bali di Tahun 2020",
                 "type": "BarChart",
                 "columns": ["Bulan",
-                            "Malaysia",
-                            "Myanmar",
-                            "Filipina",
-                            "Singapura",
-                            "Thailand"],
+                    "Malaysia",
+                    "Myanmar",
+                    "Filipina",
+                    "Singapura",
+                    "Thailand"
+                ],
 
                 "data": [
                     ["Januari", 14653, 906, 7409, 11442, 3252],
-                    ["Februari", 10650, 542, 6290,  6931,  3654],
+                    ["Februari", 10650, 542, 6290, 6931, 3654],
                     ["Maret", 5620, 360, 2560, 4226, 1036],
                     ["April", 1, 1, 53, 1, 6]
                 ]
@@ -740,15 +743,16 @@
                 "title": "Jumlah Wisatawan Asean yang berkunjung ke Bali di Tahun 2020",
                 "type": "ScatterChart",
                 "columns": ["Bulan",
-                            "Malaysia",
-                            "Myanmar",
-                            "Filipina",
-                            "Singapura",
-                            "Thailand"],
+                    "Malaysia",
+                    "Myanmar",
+                    "Filipina",
+                    "Singapura",
+                    "Thailand"
+                ],
 
                 "data": [
                     ["Januari", 14653, 906, 7409, 11442, 3252],
-                    ["Februari", 10650, 542, 6290,  6931,  3654],
+                    ["Februari", 10650, 542, 6290, 6931, 3654],
                     ["Maret", 5620, 360, 2560, 4226, 1036],
                     ["April", 1, 1, 53, 1, 6]
                 ]
@@ -757,21 +761,22 @@
                 "title": "Jumlah Wisatawan Asean yang berkunjung ke Bali di Tahun 2020",
                 "type": "LineChart",
                 "columns": ["Bulan",
-                            "Malaysia",
-                            "Myanmar",
-                            "Filipina",
-                            "Singapura",
-                            "Thailand"],
+                    "Malaysia",
+                    "Myanmar",
+                    "Filipina",
+                    "Singapura",
+                    "Thailand"
+                ],
 
                 "data": [
                     ["Januari", 14653, 906, 7409, 11442, 3252],
-                    ["Februari", 10650, 542, 6290,  6931,  3654],
+                    ["Februari", 10650, 542, 6290, 6931, 3654],
                     ["Maret", 5620, 360, 2560, 4226, 1036],
                     ["April", 1, 1, 53, 1, 6]
                 ]
             }
         ],
-        "color":"green",
+        "color": "green",
         "markers": []
     },
     {
@@ -901,7 +906,7 @@
                 ]
             }
         ],
-        "color":"green",
+        "color": "green",
         "markers": []
     },
     {
