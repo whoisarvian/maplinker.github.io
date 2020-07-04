@@ -155,12 +155,14 @@
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Jumlah Guru Sekolah Menengah Kejuruan (SMK)",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Label", "SMK Negeri", "SMK Swasta"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2019", 8314, 3457],
+                    ["2018", 8314, 3457],
+                    ["2017", 8374, 3507],
+                    ["2016", 8554, 3597]
                 ]
             },
             {
