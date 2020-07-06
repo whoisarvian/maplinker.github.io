@@ -1218,30 +1218,40 @@
         "Propinsi": "JAMBI",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Jumlah Tempat Wisata dan Restoran di Provinsi Jambi Tahun 2012-2016",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Label", "Tempat Wisata", "Restoran"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2012", 255, 540],
+                    ["2013", 226, 710],
+                    ["2014", 264, 77],
+                    ["2015", 339, 130],
+                    ["2016", 160, 26]
+
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Jumlah Tempat Wisata dan Restoran di Provinsi Jambi Tahun 2012-2016",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Label", "Tempat Wisata", "Restoran"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2012", 255, 540],
+                    ["2013", 226, 710],
+                    ["2014", 264, 77],
+                    ["2015", 339, 130],
+                    ["2016", 160, 26]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Jumlah Tempat Wisata dan Restoran di Provinsi Jambi Tahun 2012-2016",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Label", "Tempat Wisata", "Restoran"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2012", 255, 540],
+                    ["2013", 226, 710],
+                    ["2014", 264, 77],
+                    ["2015", 339, 130],
+                    ["2016", 160, 26]
                 ]
             }
         ],
