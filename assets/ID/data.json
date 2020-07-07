@@ -266,6 +266,18 @@
                     ["2017", 34.9, 41.53],
                     ["2018", 34.88, 40.98]
                 ]
+            },
+			{
+                "title": "Jumlah Sekolah Luar Biasa (SLB) di Jawa Tengah 2015 - 2019",
+                "type": "BarChart",
+                "columns": ["Tahun", "Negeri", "Swasta"],
+                "data": [
+                    ["2015", 188, 377],
+                    ["2016", 568, 1619],
+                    ["2017", 586, 1678],
+                    ["2018", 587, 1657],
+                    ["2019", 595, 1659]
+                ]
             }
         ],
         "color": "green",
