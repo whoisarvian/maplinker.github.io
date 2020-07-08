@@ -41,10 +41,7 @@
         "charts": [{
                 "title": "Data Jumlah Kunjungan Wisatawan Di Nusa Tenggara Barat",
                 "type": "BarChart",
-                "columns": [
-					"Mancannegara",
-					"Nusantara"
-				],
+                "columns": ["Label", "Mancannegara", "Nusantara"],
                 "data": [
                     ["2011", 364196, 522648],
                     ["2012", 471706, 691436],
