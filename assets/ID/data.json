@@ -1318,7 +1318,7 @@
         "charts": [{
                 "title": "Bar Charts",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns"ss: ["Label", "Data 1", "Data 2"],
                 "data": [
                     ["Label 1", 23, 56],
                     ["Label 2", 34, 56]
@@ -1350,6 +1350,7 @@
                 ]
             }
         ],
+		"color": "green",
         "markers": []
     },
     {
