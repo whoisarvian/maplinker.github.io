@@ -918,6 +918,23 @@
                     ["2014", 103],
                     ["2015", 103]
                 ]
+            },
+            {
+                "title": "Data Bandar Udara di Kalimantan Timur 2020",
+                "type": "ColumnChart",
+                "columns": ["Label", "Kabupaten/Kota"],
+                "data": [
+                    ["Samarinda", 2],
+                    ["Balikpapan", 1],
+                    ["Bontang", 1],
+                    ["Penajam Paser Utara", 0],
+                    ["Paser", 1],
+                    ["Mahakam Ulu", 0],
+                    ["Kutai Barat", 2],
+                    ["Kutai Timur", 1],
+                    ["Kutai Kartanegara", 3],
+                    ["Berau", 2]
+                ]
             }
         ],
         "color": "green",
