@@ -39,12 +39,19 @@
         "Propinsi": "NUSATENGGARA BARAT",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Data Jumlah Kunjungan Wisatawan Di Nusa Tenggara Barat",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": [
+					"Mancannegaa",
+					"Nusantara"
+				],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2011", 364196, 522648],
+                    ["2012", 471706, 691436],
+					["2013", 565944, 791658],
+					["2014", 572306, 876816],
+					["2015", 1061292, 1149235],
+					["2016", 1404328, 1690104]
                 ]
             },
             {
