@@ -1316,12 +1316,19 @@
         "Propinsi": "LAMPUNG",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Data Jumlah Usaha Pariwisata Objek Wisata Di Lampung Tahun 2014",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Label", "Objek wisata"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Way kanan", 59],
+                    ["Tulang bawang", 15],
+					["Pesawaran", 10],
+					["Pringsewu", 13],
+					["Mesuji", 12],
+					["Tulang bawang barat", 11],
+					["Pesisir barat", 0],
+					["Bandar lampung", 26],
+					["Metro", 8]
                 ]
             },
             {
