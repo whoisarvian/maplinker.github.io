@@ -42,7 +42,7 @@
                 "title": "Data Jumlah Kunjungan Wisatawan Di Nusa Tenggara Barat",
                 "type": "BarChart",
                 "columns": [
-					"Mancannegaa",
+					"Mancannegara",
 					"Nusantara"
 				],
                 "data": [
