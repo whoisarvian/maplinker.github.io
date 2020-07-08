@@ -70,6 +70,7 @@
                 ]
             }
         ],
+        "color": "green",
         "markers": []
     },
     {
@@ -954,7 +955,7 @@
                     ["Balik Papan", 27, 14, 154],
                     ["Samarinda", 43, 102, 107],
                     ["Bontang", 6, 2, 35],
-                    ["Mahakam Ulu", 5, 18, 9],
+                    ["Mahakam Ulu", 5, 18, 9]
                 ]
             }
         ],
