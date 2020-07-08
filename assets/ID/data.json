@@ -1336,7 +1336,7 @@
             {
                 "title": "Data Jumlah Usaha Pariwisata Objek Wisata Di Lampung Tahun 2014",
                 "type": "LineChart",
-                "columns": ["Label", "Objek wisata"],
+                "columns": ["Label", "Wilayah"],
                 "data": [
                     ["Way kanan", 59],
                     ["Tulang bawang", 15],
