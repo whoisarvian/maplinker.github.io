@@ -935,6 +935,23 @@
                     ["Kutai Kartanegara", 3],
                     ["Berau", 2]
                 ]
+            },
+            {
+                "title": "Data Puskesmas Di Kalimantan Timur 2015",
+                "type": "ColumnChart",
+                "columns": ["Kabupaten/Kota", "Puskesmas", "Puskemas Pembantu", "Dokter Puskemas"],
+                "data": [
+                    ["Paser", 17, 102, 31],
+                    ["Kutai Barat", 18, 86, 41],
+                    ["Kutai Kartanegara", 32, 173, 96],
+                    ["Kutai Timur", 21, 95, 63],
+                    ["Berau", 19, 92, 38],
+                    ["Penajam Paser Utara", 11, 44, 33],
+                    ["Balik Papan", 27, 14, 154],
+                    ["Samarinda", 43, 102, 107],
+                    ["Bontang", 6, 2, 35],
+                    ["Mahakam Ulu", 5, 18, 9],
+                ]
             }
         ],
         "color": "green",
