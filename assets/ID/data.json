@@ -387,6 +387,38 @@
                     ["60−64", 763973, 479285, 1243258],
                     ["65+", 827927, 545410, 1373337]
                 ]
+            },
+            {
+                "title": "Data Jumlah Pelajar SD-SMP-SMA sederajat Provinsi Jawa Timur per Karesidenan berdasarkan Tingkat Pendidikan Tahun 2020",
+                "type": "BarChart",
+                "columns": ["Kota", "SD", "SMP", "SMA"],
+                "data": [
+                    ["Surabaya", 244239, 113679, 119555],
+                    ["Gresik", 231845, 109689, 116470],
+                    ["Malang", 579738, 242203, 195267],
+                    ["Bojonegoro", 355292, 181043, 206095],
+                    ["Madiun", 246764, 108193, 123700],
+                    ["Kediri", 424835, 193563, 199584],
+                    ["Jember", 389760, 162708, 171814],
+                    ["Madura", 285415, 107320, 109900]
+                    
+                ]
+            },
+            {
+                "title": "Data Jumlah Pelajar SD-SMP-SMA sederajat Provinsi Jawa Timur per Karesidenan berdasarkan Jenis Kelamin Tahun 2020",
+                "type": "BarChart",
+                "columns": ["Kota", "Laki-Laki", "Perempuan"],
+                "data": [
+                    ["Surabaya", 245808, 233356],
+                    ["Gresik", 240924, 219082],
+                    ["Malang", 497804, 452653],
+                    ["Bojonegoro", 392192, 354042],
+                    ["Madiun", 250855, 230805],
+                    ["Kediri", 442018, 410238],
+                    ["Jember", 379922, 346622],
+                    ["Madura", 262351, 229876]
+                    
+                ]
             }
         ],
         "color": "green",
