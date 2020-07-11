@@ -440,83 +440,62 @@
         "Propinsi": "MALUKU UTARA",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
-                "type": "BarChart",
-                "columns": [
-                    "Islam",
-                    "Protestan", 
-                    "Katolik",
-                    "Hindu", 
-                    "Budha",
-                    "Lainnya"
-                ],
-                "data": [
-                    ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
-                    ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
-                    ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
-                    ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
-                    ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
-                    ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
-                    ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
-                    ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
-                    ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
-                    ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
-                    ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
-                ]
-            },
-            {
-                "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
-                "type": "ScatterChart",
-                "columns": [
-                    "Islam",
-                    "Protestan", 
-                    "Katolik",
-                    "Hindu", 
-                    "Budha",
-                    "Lainnya"
-                ],
-                "data": [
-                    ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
-                    ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
-                    ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
-                    ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
-                    ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
-                    ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
-                    ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
-                    ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
-                    ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
-                    ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
-                    ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
-                ]
-            },
-            {
-                "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
-                "type": "LineChart",
-                "columns": [
-                    "Islam",
-                    "Protestan", 
-                    "Katolik",
-                    "Hindu", 
-                    "Budha",
-                    "Lainnya"
-                ],
-                "data": [
-                    ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
-                    ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
-                    ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
-                    ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
-                    ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
-                    ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
-                    ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
-                    ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
-                    ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
-                    ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
-                    ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
-                ]
-            }
-        ],
-        "color": "green",
-        "markers": []
+            "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
+            "type": "BarChart",
+            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+            "data": [
+                ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
+                ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
+                ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
+                ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
+                ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
+                ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
+                ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
+                ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
+                ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
+                ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
+                ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
+            ]
+        },
+        {
+            "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
+            "type": "ScatterChart",
+            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+            "data": [
+                ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
+                ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
+                ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
+                ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
+                ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
+                ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
+                ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
+                ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
+                ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
+                ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
+                ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
+            ]
+        },
+        {
+            "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
+            "type": "LineChart",
+            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+            "data": [
+                ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
+                ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
+                ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
+                ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
+                ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
+                ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
+                ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
+                ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
+                ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
+                ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
+                ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
+            ]
+        }
+    ],
+    "color": "green",
+    "markers": []
     },
     {
         "ID": 10,
