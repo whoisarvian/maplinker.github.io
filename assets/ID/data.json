@@ -419,6 +419,16 @@
                     ["Madura", 262351, 229876]
                     
                 ]
+            },
+            {
+                "title": "Jumlah Total Perbandingan Jenis Kelamin Pelajar di Provinsi Jawa Timur Tahun 2020",
+                "type": "PieChart",
+                "columns": ["Jenis Kelamin", "Data 1"],
+                "data": [
+                    ["Perempuan", 2520900],
+                    ["Laki-Laki", 2760107]
+                                        
+                ]
             }
         ],
         "color": "green",
