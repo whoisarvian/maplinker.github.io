@@ -836,32 +836,48 @@
         "Propinsi": "RIAU",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Perkembangan Impor Migas dan Non Migas Provinsi Riau (Ribu (US $))",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": [
+                    "Tahun",
+                    "Migas",
+                    "Non Migas"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2016", 234149.86, 1068577.68],
+                    ["2017", 263104.16, 1212278.64],
+                    ["2018", 237857.88, 1329931.25]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Perkembangan Impor Migas dan Non Migas Provinsi Riau (Ribu (US $))",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": [
+                    "Tahun",
+                    "Migas",
+                    "Non Migas"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2016", 234149.86, 1068577.68],
+                    ["2017", 263104.16, 1212278.64],
+                    ["2018", 237857.88, 1329931.25]
                 ]
             },
             {
-                "title": "Line Charts",
-                "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "title": "Perkembangan Impor Migas dan Non Migas Provinsi Riau (Ribu (US $))",
+                "type": "PieChart",
+                "columns": [
+                    "Tahun",
+                    "Migas",
+                    "Non Migas"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2016", 234149.86, 1068577.68],
+                    ["2017", 263104.16, 1212278.64],
+                    ["2018", 237857.88, 1329931.25]
                 ]
             }
+            
         ],
         "markers": []
     },
