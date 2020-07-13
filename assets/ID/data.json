@@ -77,9 +77,9 @@
         "ID": 3,
         "kode": 75,
         "Propinsi": "GORONTALO",
-        "SUMBER": "Data Jumlah Guru SD Provinsi Gorontalo Semester Genap 2019/2020",
+        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Data Jumlah Guru SD Provinsi Gorontalo Semester Genap 2019/2020",
                 "type": "BarChart",
                 "columns": [
                     "Kabupaten",
