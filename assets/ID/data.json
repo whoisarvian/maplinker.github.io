@@ -133,6 +133,7 @@
                 ]
             }
         ],
+        "color": "green",
         "markers": []
     },
     {
@@ -1296,6 +1297,7 @@
                 ]
             }
         ],
+        "color": "green",
         "markers": []
     },
     {
