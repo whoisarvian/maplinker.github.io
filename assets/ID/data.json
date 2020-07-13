@@ -77,32 +77,58 @@
         "ID": 3,
         "kode": 75,
         "Propinsi": "GORONTALO",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+        "SUMBER": "Data Jumlah Guru SD Provinsi Gorontalo Semester Genap 2019/2020",
         "charts": [{
                 "title": "Bar Charts",
-                "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": [
+                    "Kabupaten",
+                    "Laki-Laki",
+                    "Perempuan",
+                    "Jumlah Total"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kab.Gorontalo", 336, 1623, 1959],
+                    ["Kota Gorontalo", 204, 869,  1073],
+                    ["Kab.Boalemo", 256, 869,  1100],
+                    ["Kab.Bone Bolango", 198, 886, 1084],
+                    ["Kab.Pohuwato", 221, 768, 989],
+                    ["Kab.Gorontalo Utara", 200, 760, 960]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Data Jumlah Guru SMP Provinsi Gorontalo Semester Genap 2019/2020",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": [
+                    "Kabupaten",
+                    "Laki-Laki",
+                    "Perempuan",
+                    "Jumlah Total"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kab.Gorontalo", 219, 775, 994],
+                    ["Kota Gorontalo", 119, 439, 558],
+                    ["Kab.Boalemo", 190, 435, 625],
+                    ["Kab.Bone Bolango", 149, 398, 547],
+                    ["Kab.Pohuwato", 167, 295, 462],
+                    ["Kab.Gorontalo Utara", 152, 359, 511]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Data Jumlah Guru SMA Provinsi Gorontalo Semester Genap 2019/2020",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": [
+                    "Kabupaten",
+                    "Laki-Laki",
+                    "Perempuan",
+                    "Jumlah Total"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kab.Gorontalo", 197, 384, 581],
+                    ["Kota Gorontalo", 118, 239, 357],
+                    ["Kab.Boalemo", 94, 187, 281],
+                    ["Kab.Bone Bolango", 94, 175, 269],
+                    ["Kab.Pohuwato", 79, 130, 209],
+                    ["Kab.Gorontalo Utara", 95, 158, 253]
                 ]
             }
         ],
