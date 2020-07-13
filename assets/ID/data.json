@@ -1230,30 +1230,42 @@
         "Propinsi": "KALIMANTAN TENGAH",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Jumlah Kunjungan Wisatawan Manca Negara dan Nusantara di Kalimantan Tengah",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Tahun", "Wisatawan Manca Negara", "Wisatawan Nusantara"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2012", 1.397, 189.571],
+                    ["2013", 11.521, 200.905],
+                    ["2014", 13.276, 198.187],
+                    ["2015", 14.200, 339.730],
+                    ["2016", 18.858, 797.393],
+                    ["2017", 24.552, 742.533]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Jumlah Kunjungan Wisatawan Manca Negara dan Nusantara di Kalimantan Tengah",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Tahun", "Wisatawan Manca Negara", "Wisatawan Nusantara"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2012", 1.397, 189.571],
+                    ["2013", 11.521, 200.905],
+                    ["2014", 13.276, 198.187],
+                    ["2015", 14.200, 339.730],
+                    ["2016", 18.858, 797.393],
+                    ["2017", 24.552, 742.533]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Jumlah Kunjungan Wisatawan Manca Negara dan Nusantara di Kalimantan Tengah",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Tahun", "Wisatawan Manca Negara", "Wisatawan Nusantara"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2012", 1.397, 189.571],
+                    ["2013", 11.521, 200.905],
+                    ["2014", 13.276, 198.187],
+                    ["2015", 14.200, 339.730],
+                    ["2016", 18.858, 797.393],
+                    ["2017", 24.552, 742.533]
                 ]
             }
         ],
