@@ -79,11 +79,11 @@
         "Propinsi": "GORONTALO",
         "SUMBER": "Data Jumlah Guru SD Provinsi Gorontalo Semester Genap 2019/2020",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "BarCharts",
                 "columns": [
                     "Kabupaten",
-                    "Laki-Laki",
-                    "Perempuan",
+                    "Guru Laki-Laki",
+                    "Guru Perempuan",
                     "Jumlah Total"
                 ],
                 "data": [
@@ -100,8 +100,8 @@
                 "type": "ScatterChart",
                 "columns": [
                     "Kabupaten",
-                    "Laki-Laki",
-                    "Perempuan",
+                    "Guru Laki-Laki",
+                    "Guru Perempuan",
                     "Jumlah Total"
                 ],
                 "data": [
@@ -118,8 +118,8 @@
                 "type": "LineChart",
                 "columns": [
                     "Kabupaten",
-                    "Laki-Laki",
-                    "Perempuan",
+                    "Guru Laki-Laki",
+                    "Guru Perempuan",
                     "Jumlah Total"
                 ],
                 "data": [
