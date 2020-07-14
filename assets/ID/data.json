@@ -736,7 +736,7 @@
         "charts": [{
                 "title": "Data Jumlah produksi Tanaman Hias di Jawa Barat(tangkai)",
                 "type": "BarChart",
-                "columns": ["nama Tanaman", "Jumlah tahun 2018", "Jumlah tahun 2019"],
+                "columns": ["Nama Tanaman", "Jumlah tahun 2018", "Jumlah tahun 2019"],
                 "data": [
                     ["herbas", 23713734, 30182608],
                     ["Gladiol", 1750330, 1278595],
@@ -748,21 +748,31 @@
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Data Jumlah produksi Tanaman Hias di Jawa Barat(tangkai)",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Nama Tanaman", "Jumlah tahun 2018", "Jumlah tahun 2019"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["herbas", 23713734, 30182608],
+                    ["Gladiol", 1750330, 1278595],
+                    ["krisant", 1873222, 2356650],
+                    ["Anggrek", 8168054, 7015271],
+                    ["Anyelir", 1180677, 1237376],
+                    ["Mawar", 22688401, 25658340],
+                    ["Kenanga", 6309342, 7831380]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Data Jumlah produksi Tanaman Hias di Jawa Barat(tangkai)",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Nama Tanaman", "Jumlah tahun 2018", "Jumlah tahun 2019"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["herbas", 23713734, 30182608],
+                    ["Gladiol", 1750330, 1278595],
+                    ["krisant", 1873222, 2356650],
+                    ["Anggrek", 8168054, 7015271],
+                    ["Anyelir", 1180677, 1237376],
+                    ["Mawar", 22688401, 25658340],
+                    ["Kenanga", 6309342, 7831380]
                 ]
             }
         ],
