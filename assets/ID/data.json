@@ -839,30 +839,59 @@
         "Propinsi": "NUSA TENGGARA TIMUR",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "PERSENTASE AGAMA YANG DIANUT DI PROVINSI NTT",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Agama",
+                      "Jumlah tahun 2018",
+                      "Jumlah tahun 2019"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Budha", 0.01, 0.01],
+                    ["Hindu", 0.2, 0.20],
+                    ["Kristen Katolik", 51.83, 52.48],
+                    ["Kristen Protestan", 38.68, 39.03],
+                    ["Islam", 9.28, 8.28]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "PERSENTASE AGAMA YANG DIANUT DI PROVINSI NTT",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Agama",
+                    "Jumlah tahun 2018",
+                    "Jumlah tahun 2019"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Budha", 0.01, 0.01],
+                    ["Hindu", 0.2, 0.20],
+                    ["Kristen Katolik", 51.83, 52.48],
+                    ["Kristen Protestan", 38.68, 39.03],
+                    ["Islam", 9.28, 8.28]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "DATA JUMLAH OBJEK PARIWISATA DI PROVINSI NTT",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Wisata",
+                    "Tahun 2016",
+                    "Tahun 2018"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Wisata Alam", 204, 568],
+                    ["Wisata Budaya", 172, 431],
+                    ["Wisata Minat Khusus", 63, 126]
+                ]
+            },
+            {
+                "title": "DATA JUMLAH OBJEK PARIWISATA DI PROVINSI NTT",
+                "type": "PieChart",
+                "columns": ["Wisata",
+                    "Tahun 2016",
+                    "Tahun 2018"
+                ],
+                "data": [
+                    ["Wisata Alam", 204, 568],
+                    ["Wisata Budaya", 172, 431],
+                    ["Wisata Minat Khusus", 63, 126]
                 ]
             }
         ],
