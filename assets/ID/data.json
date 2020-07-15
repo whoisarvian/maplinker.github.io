@@ -641,7 +641,16 @@
                 "columns": ["Kota/Kabupaten", "Museum", "Benteng"],
                 "data": [
                     ["Palopo", 4, 3],
-                    ["Belopa", 5, 7],
+                    ["Belopa", 5, 7]
+                ],
+                "columns": [
+                    "Kota/Kabupaten",
+                    "Museum", 
+                    "Benteng"
+                ],
+                "data": [
+                    ["Palopo", 4, 3],
+                    ["Belopa", 5, 3],
                     ["Makale", 1, 5],
                     ["Watampone", 4, 8],
                     ["Larompong", 7, 4]
