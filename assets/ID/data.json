@@ -641,14 +641,14 @@
                 "columns": [
                     "Kota/Kabupaten"
                     "Museum", 
-                    "Benteng", 
+                    "Benteng"
                 ],
                 "data": [
-                    ["Palopo", 4, 43],
-                    ["Belopa", 5, 37],
-                    ["Makale", 1, 55],
-                    ["Watampone", 4, 82],
-                    ["Larompong", 7, 74],
+                    ["Palopo", 4, 3],
+                    ["Belopa", 5, 3],
+                    ["Makale", 1, 5],
+                    ["Watampone", 4, 8],
+                    ["Larompong", 7, 4]
                 ]
             },
             {
