@@ -636,33 +636,43 @@
         "Propinsi": "SULAWESI SELATAN",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Jumlah Tempat Bersejarah Di Sulawesi Selatan",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kota/Kabupaten", "Museum", "Benteng"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Palopo", 4, 3],
+                    ["Belopa", 5, 7],
+                    ["Makale", 1, 5],
+                    ["Watampone", 4, 8],
+                    ["Larompong", 7, 4]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Jumlah Tempat Bersejarah Di Sulawesi Selatan",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kota/Kabupaten", "Museum", "Benteng"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Palopo", 4, 3],
+                    ["Belopa", 5, 7],
+                    ["Makale", 1, 5],
+                    ["Watampone", 4, 8],
+                    ["Larompong", 7, 4]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Jumlah Tempat Bersejarah Di Sulawesi Selatan",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kota/Kabupaten", "Museum", "Benteng"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Palopo", 4, 3],
+                    ["Belopa", 5, 7],
+                    ["Makale", 1, 5],
+                    ["Watampone", 4, 8],
+                    ["Larompong", 7, 4]
                 ]
             }
         ],
+        "color": "green",
         "markers": []
     },
     {
