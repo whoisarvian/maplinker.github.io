@@ -1137,6 +1137,23 @@
                     ["Bontang", 6, 2, 35],
                     ["Mahakam Ulu", 5, 18, 9]
                 ]
+            },
+            {
+                "title": "Data Jumlah Rumah Sakit di Kalimantan Timur 2020",
+                "type": "BarChart",
+                "columns": ["Label", "Kabupaten/Kota"],
+                "data": [
+                    ["Berau", 2],
+                    ["Kutai Barat", 1],
+                    ["Kutai Kartanegara", 3],
+                    ["Kutai Timur", 8],
+                    ["Mahakam Ulu", 2],
+                    ["Paser", 3],
+                    ["Penajem Paser Utara", 2],
+                    ["Balikpapan", 13],
+                    ["Bontang", 5],
+                    ["Samarinda", 17]
+                ]
             }
         ],
         "color": "green",
