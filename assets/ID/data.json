@@ -1410,8 +1410,31 @@
                     ["Palembang", 1623099,1651857,1662893],
                     ["Prabumulih", 182128,185895,186834],
                     ["Pagar Alam", 136605,137964,139194],
-                    ["Lubuk Linggau", 226002,229889,232229]
-              
+                    ["Lubuk Linggau", 226002,229889,232229]   
+                ]
+            },
+            {
+                "title": "Data Jumlah Kecamatan",
+                "type": "BarChart",
+                "columns": ["Kecamatan", "2017", "2018", "2019"],
+                "data": [
+                    ["Ogan Komering Ulu", 13,13,13],
+                    ["Ogan Komering Ilir", 18,18,18],
+                    ["Muara Enim", 20,20,22],
+                    ["Lahat", 24,24,24],
+                    ["Musi Rawas", 14,14,14],
+                    ["Musi Banyuasin", 14,15,15],
+                    ["Banyuasin", 19,21,21],
+                    ["Ogan Komering Ulu Selatan", 19,19,19],
+                    ["Ogan Komering Ulu Timur", 20,20,20],
+                    ["Ogan Ilir", 16,16,16],
+                    ["Empat Lawang", 10,10,10],
+                    ["Pali", 5,5,5],
+                    ["Musi Rawas Utara", 7,7,7],
+                    ["Palembang", 18,18,18],
+                    ["Prabumulih", 6,6,6],
+                    ["Pagar Alam", 5,5,5],
+                    ["Lubuk Linggau", 8,8,8]
                 ]
             },
             {
