@@ -79,33 +79,61 @@
         "Propinsi": "GORONTALO",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Data Jumlah Guru SD Provinsi Gorontalo Semester Genap 2019/2020",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": [
+                    "Kabupaten",
+                    "Guru Laki-Laki",
+                    "Guru Perempuan",
+                    "Jumlah Total"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kab.Gorontalo", 336, 1623, 1959],
+                    ["Kota Gorontalo", 204, 869,  1073],
+                    ["Kab.Boalemo", 256, 869,  1100],
+                    ["Kab.Bone Bolango", 198, 886, 1084],
+                    ["Kab.Pohuwato", 221, 768, 989],
+                    ["Kab.Gorontalo Utara", 200, 760, 960]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Data Jumlah Guru SMP Provinsi Gorontalo Semester Genap 2019/2020",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": [
+                    "Kabupaten",
+                    "Guru Laki-Laki",
+                    "Guru Perempuan",
+                    "Jumlah Total"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kab.Gorontalo", 219, 775, 994],
+                    ["Kota Gorontalo", 119, 439, 558],
+                    ["Kab.Boalemo", 190, 435, 625],
+                    ["Kab.Bone Bolango", 149, 398, 547],
+                    ["Kab.Pohuwato", 167, 295, 462],
+                    ["Kab.Gorontalo Utara", 152, 359, 511]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Data Jumlah Guru SMA Provinsi Gorontalo Semester Genap 2019/2020",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": [
+                    "Kabupaten",
+                    "Guru Laki-Laki",
+                    "Guru Perempuan",
+                    "Jumlah Total"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kab.Gorontalo", 197, 384, 581],
+                    ["Kota Gorontalo", 118, 239, 357],
+                    ["Kab.Boalemo", 94, 187, 281],
+                    ["Kab.Bone Bolango", 94, 175, 269],
+                    ["Kab.Pohuwato", 79, 130, 209],
+                    ["Kab.Gorontalo Utara", 95, 158, 253]
                 ]
             }
         ],
+        "color": "green",
         "markers": []
     },
     {
@@ -387,6 +415,48 @@
                     ["60−64", 763973, 479285, 1243258],
                     ["65+", 827927, 545410, 1373337]
                 ]
+            },
+            {
+                "title": "Data Jumlah Pelajar SD-SMP-SMA sederajat Provinsi Jawa Timur per Karesidenan berdasarkan Tingkat Pendidikan Tahun 2020",
+                "type": "BarChart",
+                "columns": ["Kota", "SD", "SMP", "SMA"],
+                "data": [
+                    ["Surabaya", 244239, 113679, 119555],
+                    ["Gresik", 231845, 109689, 116470],
+                    ["Malang", 579738, 242203, 195267],
+                    ["Bojonegoro", 355292, 181043, 206095],
+                    ["Madiun", 246764, 108193, 123700],
+                    ["Kediri", 424835, 193563, 199584],
+                    ["Jember", 389760, 162708, 171814],
+                    ["Madura", 285415, 107320, 109900]
+                    
+                ]
+            },
+            {
+                "title": "Data Jumlah Pelajar SD-SMP-SMA sederajat Provinsi Jawa Timur per Karesidenan berdasarkan Jenis Kelamin Tahun 2020",
+                "type": "BarChart",
+                "columns": ["Kota", "Laki-Laki", "Perempuan"],
+                "data": [
+                    ["Surabaya", 245808, 233356],
+                    ["Gresik", 240924, 219082],
+                    ["Malang", 497804, 452653],
+                    ["Bojonegoro", 392192, 354042],
+                    ["Madiun", 250855, 230805],
+                    ["Kediri", 442018, 410238],
+                    ["Jember", 379922, 346622],
+                    ["Madura", 262351, 229876]
+                    
+                ]
+            },
+            {
+                "title": "Jumlah Total Perbandingan Jenis Kelamin Pelajar di Provinsi Jawa Timur Tahun 2020",
+                "type": "PieChart",
+                "columns": ["Jenis Kelamin", "Data 1"],
+                "data": [
+                    ["Perempuan", 2520900],
+                    ["Laki-Laki", 2760107]
+                                        
+                ]
             }
         ],
         "color": "green",
@@ -398,34 +468,62 @@
         "Propinsi": "MALUKU UTARA",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
-                "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
-                "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
-                ]
-            },
-            {
-                "title": "Scatter Charts",
-                "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
-                "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
-                ]
-            },
-            {
-                "title": "Line Charts",
-                "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
-                "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
-                ]
-            }
-        ],
-        "markers": []
+            "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
+            "type": "BarChart",
+            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+            "data": [
+                ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
+                ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
+                ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
+                ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
+                ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
+                ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
+                ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
+                ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
+                ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
+                ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
+                ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
+            ]
+        },
+        {
+            "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
+            "type": "ScatterChart",
+            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+            "data": [
+                ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
+                ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
+                ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
+                ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
+                ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
+                ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
+                ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
+                ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
+                ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
+                ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
+                ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
+            ]
+        },
+        {
+            "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
+            "type": "LineChart",
+            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+            "data": [
+                ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
+                ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
+                ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
+                ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
+                ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
+                ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
+                ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
+                ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
+                ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
+                ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
+                ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
+            ]
+        }
+    ],
+    "color": "green",
+    "markers": []
     },
     {
         "ID": 10,
@@ -538,33 +636,52 @@
         "Propinsi": "SULAWESI SELATAN",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Jumlah Tempat Bersejarah Di Sulawesi Selatan",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kota/Kabupaten", "Museum", "Benteng"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Palopo", 4, 3],
+                    ["Belopa", 5, 7]
+                ],
+                "columns": [
+                    "Kota/Kabupaten",
+                    "Museum", 
+                    "Benteng"
+                ],
+                "data": [
+                    ["Palopo", 4, 3],
+                    ["Belopa", 5, 3],
+                    ["Makale", 1, 5],
+                    ["Watampone", 4, 8],
+                    ["Larompong", 7, 4]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Jumlah Tempat Bersejarah Di Sulawesi Selatan",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kota/Kabupaten", "Museum", "Benteng"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Palopo", 4, 3],
+                    ["Belopa", 5, 7],
+                    ["Makale", 1, 5],
+                    ["Watampone", 4, 8],
+                    ["Larompong", 7, 4]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Jumlah Tempat Bersejarah Di Sulawesi Selatan",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kota/Kabupaten", "Museum", "Benteng"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Palopo", 4, 3],
+                    ["Belopa", 5, 7],
+                    ["Makale", 1, 5],
+                    ["Watampone", 4, 8],
+                    ["Larompong", 7, 4]
                 ]
             }
         ],
+        "color": "green",
         "markers": []
     },
     {
@@ -636,33 +753,49 @@
         "Propinsi": "JAWA BARAT",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Data Jumlah produksi Tanaman Hias di Jawa Barat(tangkai)",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Nama Tanaman", "Jumlah tahun 2018", "Jumlah tahun 2019"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["herbas", 23713734, 30182608],
+                    ["Gladiol", 1750330, 1278595],
+                    ["krisant", 1873222, 2356650],
+                    ["Anggrek", 8168054, 7015271],
+                    ["Anyelir", 1180677, 1237376],
+                    ["Mawar", 22688401, 25658340],
+                    ["Kenanga", 6309342, 7831380]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Data Jumlah produksi Tanaman Hias di Jawa Barat(tangkai)",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Nama Tanaman", "Jumlah tahun 2018", "Jumlah tahun 2019"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["herbas", 23713734, 30182608],
+                    ["Gladiol", 1750330, 1278595],
+                    ["krisant", 1873222, 2356650],
+                    ["Anggrek", 8168054, 7015271],
+                    ["Anyelir", 1180677, 1237376],
+                    ["Mawar", 22688401, 25658340],
+                    ["Kenanga", 6309342, 7831380]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Data Jumlah produksi Tanaman Hias di Jawa Barat(tangkai)",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Nama Tanaman", "Jumlah tahun 2018", "Jumlah tahun 2019"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["herbas", 23713734, 30182608],
+                    ["Gladiol", 1750330, 1278595],
+                    ["krisant", 1873222, 2356650],
+                    ["Anggrek", 8168054, 7015271],
+                    ["Anyelir", 1180677, 1237376],
+                    ["Mawar", 22688401, 25658340],
+                    ["Kenanga", 6309342, 7831380]
                 ]
             }
         ],
+        "color": "green",
         "markers": []
     },
     {
@@ -706,33 +839,63 @@
         "Propinsi": "NUSA TENGGARA TIMUR",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "PERSENTASE AGAMA YANG DIANUT DI PROVINSI NTT",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Agama",
+                      "Jumlah tahun 2018",
+                      "Jumlah tahun 2019"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Budha", 0.01, 0.01],
+                    ["Hindu", 0.2, 0.20],
+                    ["Kristen Katolik", 51.83, 52.48],
+                    ["Kristen Protestan", 38.68, 39.03],
+                    ["Islam", 9.28, 8.28]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "PERSENTASE AGAMA YANG DIANUT DI PROVINSI NTT",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Agama",
+                    "Jumlah tahun 2018",
+                    "Jumlah tahun 2019"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Budha", 0.01, 0.01],
+                    ["Hindu", 0.2, 0.20],
+                    ["Kristen Katolik", 51.83, 52.48],
+                    ["Kristen Protestan", 38.68, 39.03],
+                    ["Islam", 9.28, 8.28]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "DATA JUMLAH OBJEK PARIWISATA DI PROVINSI NTT",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Wisata",
+                    "Tahun 2016",
+                    "Tahun 2018"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Wisata Alam", 204, 568],
+                    ["Wisata Budaya", 172, 431],
+                    ["Wisata Minat Khusus", 63, 126]
+                ]
+            },
+            {
+                "title": "DATA JUMLAH OBJEK PARIWISATA DI PROVINSI NTT",
+                "type": "PieChart",
+                "columns": ["Wisata",
+                    "Tahun 2016",
+                    "Tahun 2018"
+                ],
+                "data": [
+                    ["Wisata Alam", 204, 568],
+                    ["Wisata Budaya", 172, 431],
+                    ["Wisata Minat Khusus", 63, 126]
                 ]
             }
         ],
+        "color": "green",
         "markers": []
     },
     {
@@ -804,33 +967,50 @@
         "Propinsi": "RIAU",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Perkembangan Impor Migas dan Non Migas Provinsi Riau (Ribu (US $))",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": [
+                    "Tahun",
+                    "Migas",
+                    "Non Migas"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2016", 234149.86, 1068577.68],
+                    ["2017", 263104.16, 1212278.64],
+                    ["2018", 237857.88, 1329931.25]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Perkembangan Impor Migas dan Non Migas Provinsi Riau (Ribu (US $))",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": [
+                    "Tahun",
+                    "Migas",
+                    "Non Migas"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2016", 234149.86, 1068577.68],
+                    ["2017", 263104.16, 1212278.64],
+                    ["2018", 237857.88, 1329931.25]
                 ]
             },
             {
-                "title": "Line Charts",
-                "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "title": "Perkembangan Impor Migas dan Non Migas Provinsi Riau (Ribu (US $))",
+                "type": "PieChart",
+                "columns": [
+                    "Tahun",
+                    "Migas",
+                    "Non Migas"
+                ],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2016", 234149.86, 1068577.68],
+                    ["2017", 263104.16, 1212278.64],
+                    ["2018", 237857.88, 1329931.25]
                 ]
             }
+            
         ],
+        "color": "green",
         "markers": []
     },
     {
@@ -956,6 +1136,23 @@
                     ["Samarinda", 43, 102, 107],
                     ["Bontang", 6, 2, 35],
                     ["Mahakam Ulu", 5, 18, 9]
+                ]
+            },
+            {
+                "title": "Data Jumlah Rumah Sakit di Kalimantan Timur 2020",
+                "type": "BarChart",
+                "columns": ["Label", "Kabupaten/Kota"],
+                "data": [
+                    ["Berau", 2],
+                    ["Kutai Barat", 1],
+                    ["Kutai Kartanegara", 3],
+                    ["Kutai Timur", 8],
+                    ["Mahakam Ulu", 2],
+                    ["Paser", 3],
+                    ["Penajem Paser Utara", 2],
+                    ["Balikpapan", 13],
+                    ["Bontang", 5],
+                    ["Samarinda", 17]
                 ]
             }
         ],
@@ -1143,33 +1340,46 @@
         "Propinsi": "KALIMANTAN TENGAH",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Jumlah Kunjungan Wisatawan Manca Negara dan Nusantara di Kalimantan Tengah",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Tahun", "Wisatawan Manca Negara", "Wisatawan Nusantara"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2012", 1.397, 189.571],
+                    ["2013", 11.521, 200.905],
+                    ["2014", 13.276, 198.187],
+                    ["2015", 14.200, 339.730],
+                    ["2016", 18.858, 797.393],
+                    ["2017", 24.552, 742.533]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Jumlah Kunjungan Wisatawan Manca Negara dan Nusantara di Kalimantan Tengah",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Tahun", "Wisatawan Manca Negara", "Wisatawan Nusantara"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2012", 1.397, 189.571],
+                    ["2013", 11.521, 200.905],
+                    ["2014", 13.276, 198.187],
+                    ["2015", 14.200, 339.730],
+                    ["2016", 18.858, 797.393],
+                    ["2017", 24.552, 742.533]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Jumlah Kunjungan Wisatawan Manca Negara dan Nusantara di Kalimantan Tengah",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Tahun", "Wisatawan Manca Negara", "Wisatawan Nusantara"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2012", 1.397, 189.571],
+                    ["2013", 11.521, 200.905],
+                    ["2014", 13.276, 198.187],
+                    ["2015", 14.200, 339.730],
+                    ["2016", 18.858, 797.393],
+                    ["2017", 24.552, 742.533]
                 ]
             }
         ],
+        "color": "green",
         "markers": []
     },
     {
