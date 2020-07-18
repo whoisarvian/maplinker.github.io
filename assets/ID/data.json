@@ -1552,33 +1552,59 @@
         "Propinsi": "BENGKULU",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
-                "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "title": "Data Jumlah Objek Wisata di Provinsi Bengkulu",
+                "type": "ColumnChart",
+                "columns": ["Kabupaten/Kota", "Wisata Alam", "Wisata Sejarah", "Wisata Modern"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kab Bengkulu Selatan", 19, 2, 3],
+                    ["Kab Bengkulu Tengah", 24, 3, 1],
+                    ["Kab Bengkulu Utara", 23, 0, 5],
+                    ["Kab Kaur", 26, 5, 1],
+                    ["Kab Kepahiang", 6, 0, 0],
+                    ["Kab Lebong", 17, 7, 1],
+                    ["Kab Mukomuko", 24, 4, 3],
+                    ["Kab Rejang Lebong", 18, 3, 5],
+                    ["Kab Seluma", 16, 3, 0],
+                    ["Kota Bengkulu ", 34, 12, 2]
+                   
                 ]
             },
             {
-                "title": "Scatter Charts",
-                "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "title": "Jumlah Objek Wisata Alam di Provinsi Bengkulu",
+                "type": "PieChart",
+                "columns": ["Kabupaten/Kota", "Wisata Alam"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kab Bengkulu Selatan", 19],
+                    ["Kab Bengkulu Tengah", 24],
+                    ["Kab Bengkulu Utara", 23],
+                    ["Kab Kaur", 26],
+                    ["Kab Kepahiang", 6],
+                    ["Kab Lebong", 17],
+                    ["Kab Mukomuko", 24],
+                    ["Kab Rejang Lebong", 18],
+                    ["Kab Seluma", 16],
+                    ["Kota Bengkulu ", 34]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Jumlah Objek Wisata Sejarah dan Modern di Provinsi Bengkulu",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Label", "Wisata Sejarah", "Wisata Modern"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kab Bengkulu Selatan", 2, 3],
+                    ["Kab Bengkulu Tengah", 3, 1],
+                    ["Kab Bengkulu Utara", 0, 5],
+                    ["Kab Kaur", 5, 1],
+                    ["Kab Kepahiang", 0, 0],
+                    ["Kab Lebong", 7, 1],
+                    ["Kab Mukomuko", 4, 3],
+                    ["Kab Rejang Lebong", 3, 5],
+                    ["Kab Seluma", 3, 0],
+                    ["Kota Bengkulu ", 12, 2]
                 ]
             }
         ],
+        "color": "green",
         "markers": []
     },
     {
