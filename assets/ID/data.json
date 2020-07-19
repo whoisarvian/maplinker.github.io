@@ -1438,6 +1438,30 @@
                 ]
             },
             {
+                "title": "Data Jumlah Kecamatan",
+                "type": "BarChart",
+                "columns": ["Desa/Kelurahan", "2017", "2018", "2019"],
+                "data": [
+                    ["Ogan Komering Ulu", 157,157,157],
+                    ["Ogan Komering Ilir", 327,327,327],
+                    ["Muara Enim", 255,255,256],
+                    ["Lahat", 377,377,377],
+                    ["Musi Rawas", 240,243,243],
+                    ["Musi Banyuasin", 240,243,243],
+                    ["Banyuasin", 305,305,305],
+                    ["Ogan Komering Ulu Selatan", 259,259,259],
+                    ["Ogan Komering Ulu Timur", 332,332,322],
+                    ["Ogan Ilir", 241,241,241],
+                    ["Empat Lawang", 156,156,156],
+                    ["Pali", 75,75,75],
+                    ["Musi Rawas Utara", 89,89,89],
+                    ["Palembang", 107,107,107],
+                    ["Prabumulih", 37,37,37],
+                    ["Pagar Alam", 35,35,35],
+                    ["Lubuk Linggau", 72,72,72]
+                ]
+            },
+            {
                 "title": "Statistik Kontribusi Produksi Komoditas Sektor Pertanian SUMSEL 2019 (dalam Ton)",
                 "type": "PieChart",
                 "columns": ["Label", "Data 1"],
