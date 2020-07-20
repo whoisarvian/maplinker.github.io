@@ -630,34 +630,63 @@
         "kode": 0,
         "Propinsi": "KALIMANTAN BARAT",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
-        "charts": [{
+        "charts": [
+            {
+                "title" : "DAFTAR PERGURUAN TINGGI NEGRI (PTN) DAN SWASTA (PTS) TIAP KABUPATEN",
+                "type" : "BarChart",
+                "columns": ["",""],
+                "data" : ["",""]
+            },
+            {
                 "title": "Bar Charts",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Label", "NEGRI", "SWASTA"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Pontianak", 3, 30],
+                    ["Singkawang", 0, 5],
+                    ["Sintang", 0, 3],
+                    ["Bengkayang", 0, 3],
+                    ["Nanga Pinoh", 0, 1],
+                    ["Ngabang", 0, 1],
+                    ["Ketapang", 1, 1],
+                    ["Sungai Raya", 0, 1],
+                    ["Sambas", 1, 1 ]
                 ]
             },
             {
                 "title": "Scatter Charts",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Label", "NEGRI", "SWASTA"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Pontianak", 3, 30],
+                    ["Singkawang", 0, 5],
+                    ["Sintang", 0, 3],
+                    ["Bengkayang", 0, 3],
+                    ["Nanga Pinoh", 0, 1],
+                    ["Ngabang", 0, 1],
+                    ["Ketapang", 1, 1],
+                    ["Sungai Raya", 0, 1],
+                    ["Sambas", 1, 1 ]
                 ]
             },
             {
                 "title": "Line Charts",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Label", "NGERI", "SWASTA"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Pontianak", 3, 30],
+                    ["Singkawang", 0, 5],
+                    ["Sintang", 0, 3],
+                    ["Bengkayang", 0, 3],
+                    ["Nanga Pinoh", 0, 1],
+                    ["Ngabang", 0, 1],
+                    ["Ketapang", 1, 1],
+                    ["Sungai Raya", 0, 1],
+                    ["Sambas", 1, 1 ]
                 ]
             }
         ],
+        "color":"green",
         "markers": []
     },
     {
