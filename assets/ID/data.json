@@ -1462,6 +1462,68 @@
                 ]
             },
             {
+                "title": "Jumlah Mahasiswa di perguruan tinggi Prov.SUMSEL Th.2018",
+                "type": "BarChart",
+                "columns": ["Label", "Jumlah Mahasiswa"],
+                "data": [
+                    ["Universitas Sriwijaya", 28410],
+                    ["UIN Raden Fatah Palembang", 12129],
+                    ["Universitas Muhammadiyah Palembang", 10829],
+                    ["Universitas PGRI palembang", 7907],
+                    ["Universitas Bina Darma", 7229],
+                    ["Politenik Negeri Sriwijaya", 6620],
+                    ["Universitas Tridinanti", 5737],
+                    ["Universitas Baturaja", 4620],
+                    ["Universitas Sjakhyakirti", 3603],
+                    ["STKIP PGRI Lubuk Linggau", 2446],
+                    ["Universitas Katolik Musi Charitas", 2300]
+                ]
+            },
+            {
+                "title": "Jumlah Mahasiswa di perguruan tinggi Prov.SUMSEL Th.2018",
+                "type": "BarChart",
+                "columns": ["Label", "Jumlah Mahasiswa"],
+                "data": [
+                    ["STISIPOL Candradimuka", 2111],
+                    ["Poltekkes Kemenkes Palembang ", 2071],
+                    ["Universitas Indo Global Mandiri", 1871],
+                    ["Sekolah Tinggi ilmu Ekonomi Musi Rawas", 1856],
+                    ["Sekolah Tinggi ilmu Ekonomi Trisna Negara", 1790],
+                    ["Universitas Kader Bangsa", 1713],
+                    ["Sekolah Tinggi ilmu Kesehatan Bina Husada", 1576],
+                    ["Sekolah Tinggi ilmu Ekonomi Serelo Lahat", 1512],
+                    ["Sekolah Tinggi ilmu Administrasi Satya Negara", 1502],
+                    ["Sekolah Tinggi ilmu Kesehatan Siti Khadijah", 1464],
+                    ["Universitas Musi Rawas", 1369]
+                ]
+            },
+            {
+                "title": "Jumlah Mahasiswa di perguruan tinggi Prov.SUMSEL Th.2018",
+                "type": "BarChart",
+                "columns": ["Label", "Jumlah Mahasiswa"],
+                "data": [
+                    ["Sekolah Tinggi ilmu Ekonomi Rahmaniyah", 1365],
+                    ["STKIP Nurul Huda di Sukaraja", 1348],
+                    ["AMIK AKMI", 1316],
+                    ["STIKES Muhammadiyah Palembang", 1299],
+                    ["STMIK Musi Rawas", 1043],
+                    ["Universitas Palembang", 1011],
+                    ["STMIK Palcomtech", 1008],
+                    ["Universitas IBA", 859],
+                    ["STMIK Global Informatika Mdp", 887]
+        
+                ]
+            },
+            {
+                "title": "Keadaan Tenaga Kerja",
+                "type": "BarChart",
+                "columns": ["Bulan Agustus", "2017", "2018", "2019"],
+                "data": [
+                    ["Penduduk yang Bekerja", 3942534,3963870,3968499],
+                    ["Pengangguran", 181135,175087,185918]
+                ]
+            },
+            {
                 "title": "Statistik Kontribusi Produksi Komoditas Sektor Pertanian SUMSEL 2019 (dalam Ton)",
                 "type": "PieChart",
                 "columns": ["Label", "Data 1"],
@@ -1543,60 +1605,8 @@
                     ["Kakao", 3943, 12276],
                     ["Lainnya..", 99508.23, 49764]
                 ]
-            },
-            {
-                "title": "Jumlah Mahasiswa di perguruan tinggi Prov.SUMSEL Th.2018",
-                "type": "BarChart",
-                "columns": ["Label", "Jumlah Mahasiswa"],
-                "data": [
-                    ["Universitas Sriwijaya", 28410],
-                    ["UIN Raden Fatah Palembang", 12129],
-                    ["Universitas Muhammadiyah Palembang", 10829],
-                    ["Universitas PGRI palembang", 7907],
-                    ["Universitas Bina Darma", 7229],
-                    ["Politenik Negeri Sriwijaya", 6620],
-                    ["Universitas Tridinanti", 5737],
-                    ["Universitas Baturaja", 4620],
-                    ["Universitas Sjakhyakirti", 3603],
-                    ["STKIP PGRI Lubuk Linggau", 2446],
-                    ["Universitas Katolik Musi Charitas", 2300]
-                ]
-            },
-            {
-                "title": "Jumlah Mahasiswa di perguruan tinggi Prov.SUMSEL Th.2018",
-                "type": "BarChart",
-                "columns": ["Label", "Jumlah Mahasiswa"],
-                "data": [
-                    ["STISIPOL Candradimuka", 2111],
-                    ["Poltekkes Kemenkes Palembang ", 2071],
-                    ["Universitas Indo Global Mandiri", 1871],
-                    ["Sekolah Tinggi ilmu Ekonomi Musi Rawas", 1856],
-                    ["Sekolah Tinggi ilmu Ekonomi Trisna Negara", 1790],
-                    ["Universitas Kader Bangsa", 1713],
-                    ["Sekolah Tinggi ilmu Kesehatan Bina Husada", 1576],
-                    ["Sekolah Tinggi ilmu Ekonomi Serelo Lahat", 1512],
-                    ["Sekolah Tinggi ilmu Administrasi Satya Negara", 1502],
-                    ["Sekolah Tinggi ilmu Kesehatan Siti Khadijah", 1464],
-                    ["Universitas Musi Rawas", 1369]
-                ]
-            },
-            {
-                "title": "Jumlah Mahasiswa di perguruan tinggi Prov.SUMSEL Th.2018",
-                "type": "BarChart",
-                "columns": ["Label", "Jumlah Mahasiswa"],
-                "data": [
-                    ["Sekolah Tinggi ilmu Ekonomi Rahmaniyah", 1365],
-                    ["STKIP Nurul Huda di Sukaraja", 1348],
-                    ["AMIK AKMI", 1316],
-                    ["STIKES Muhammadiyah Palembang", 1299],
-                    ["STMIK Musi Rawas", 1043],
-                    ["Universitas Palembang", 1011],
-                    ["STMIK Palcomtech", 1008],
-                    ["Universitas IBA", 859],
-                    ["STMIK Global Informatika Mdp", 887]
-        
-                ]
             }
+            
            
 
         ],
