@@ -52,21 +52,51 @@
                 ]
             },
             {
-                "title": "Scatter Charts",
-                "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "title": "Jumlah Desa Provinsi Nusa Tenggara Barat Tahun 2013",
+                "type": "BarChart",
+                "columns": ["Kabupaten", "Jumlah Desa"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Sumbawa", 166],
+                    ["Dompu", 81],
+                    ["Bima", 198],
+                    ["Sumbawa Barat", 65],
+                    ["Kota Mataram", 50],
+                    ["Kota Bima", 38],
+                    ["Lombok Utara", 33],
+                    ["Lombok Barat", 122],
+                    ["Lombok Tengah", 139],
+                    ["Lombok Timur", 254]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Volume Ekspor Provinsi Nusa Tenggara Barat",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Tahun", "Volume(Ton)"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2008", 400000],
+                    ["2009", 650000],
+                    ["2010", 750000],
+                    ["2011", 360000],
+                    ["2012", 340000],
+                    ["2013", 260000]
+                ]
+            },
+              {
+                "title": "Persentase Luas Wilayah Provinsi Nusa Tenggara Barat",
+                "type": "PieChart",
+                "columns": ["Kabupaten", "Luas(km2)"],
+                "data": [
+                    ["Lombok Timur", 160555],
+                    ["Lombok Tengah", 12084],
+                    ["Lombok Barat", 105387],
+                    ["Lombok Utara", 80953],
+                    ["Kota Mataram", 613],
+                    ["Sumbawa", 664398],
+                    ["Sumbawa Barat", 184902],
+                    ["Bima", 2075],
+                    ["Kota Bima", 2075],
+                    ["Dompu", 23246]
+                    
                 ]
             }
         ],
