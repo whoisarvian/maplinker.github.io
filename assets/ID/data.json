@@ -229,12 +229,15 @@
                 ]
             },
             {
-                "title": "Line Charts",
-                "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "title": "Jumlah Status Stasiun KAI Yogyakarta 5 Tahun terakhir",
+                "type": "BarChart",
+                "columns": ["Label", "Aktif", "Tidak aktif"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["2016", 7, 0],
+                    ["2017", 7, 0],
+                    ["2018", 5, 2],
+                    ["2019", 5, 2],
+                    ["2020", 5, 2]
                 ]
             }
         ],
