@@ -1294,6 +1294,23 @@
                     ["Bontang", 5],
                     ["Samarinda", 17]
                 ]
+            },
+            {
+                "title": "Data Jumlah Pondok Pesantren Di Kalimantan Timur 2019",
+                "type": "ColumnChart",
+                "columns": ["Label", "Kabupaten/Kota"],
+                "data": [
+                    ["Paser", 20],
+                    ["Kutai Kartanegara", 37],
+                    ["Berau", 16],
+                    ["Kutai Barat", 2],
+                    ["Kutai Timur", 20],
+                    ["Penajam Paser Utara", 7],
+                    ["Balik Papan", 19],
+                    ["Samarinda", 36],
+                    ["Bontang", 6],
+                    ["Mahakam Ulu", 0]
+                ]
             }
         ],
         "color": "green",
