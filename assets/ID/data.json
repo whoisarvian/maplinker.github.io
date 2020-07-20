@@ -1132,8 +1132,6 @@
                 "type": "BarChart",
                 "columns": ["Kabupaten/Kota", "2018", "2019"],
                 "data": [
-                ],
-                "data": [
                     ["Kuantan Singingi", 1, 1],
                     ["Indragiri Hulu", 2, 2],
                     ["Indragiri Hilir", 4, 4],
@@ -1189,8 +1187,7 @@
                          ["Rata-Rata Pekerja Tahun 2018",13.064],
                          ["Rata-Rata Pekerja Tahun 2019",12.792]
                 ]
-           },
-
+           }
         ],
         "color": "green",
         "markers": []
