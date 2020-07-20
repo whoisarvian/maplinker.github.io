@@ -1147,8 +1147,50 @@
                     ["Pekanbaru", 19, 23],
                     ["Dumai", 3, 3]
                 ]
-            }
-            
+            },
+             {
+                "title": "Persentase Penduduk Bekerja Menurut Lapangan Pekerjaan Utama di Provinsi Riau Agustus 2017- Agustus 2019",
+                "type": "BarChart",
+                "columns": [
+                    "Jenis_Pekerjaan",
+                    "Jumlah"
+                ],
+                "data": [
+                    [ "Industri Pengolahan", 21.69],
+                    ["Perdagangan Besar dan Eceran" ,21.63],
+                    ["Penyediaan Akomodasi dan Makan Minum" ,5.91],
+                    ["Konstruksi",10.04],
+                    ["Jasa Lainnya", 5.53]
+                ]
+            },
+                {
+                "title": "Persentase Penduduk Bekerja Menurut Lapangan Pekerjaan Utama di Provinsi Riau Agustus 2017- Agustus 2019",
+                "type": "BarChart",
+                "columns": [
+                 "Tahun",
+                 "Total"
+                ],
+                "data": [
+                 ["Total Pekerja di Tahun 2017",64.8],
+                 ["Total Pekerja di Tahun 2018", 65.38],
+                 ["Total Pekerja di Tahun 2019 ",63.38]
+                ]
+           },
+
+               {
+                "title": "Persentase Penduduk Bekerja Menurut Lapangan Pekerjaan Utama di Provinsi Riau Agustus 2017- Agustus 2019",
+                "type": "PieChart",
+                "columns": [
+                 "Tahun",
+                 "Rata-Rata"
+                ],
+                "data": [
+                         ["Rata-Rata Pekerja Tahun 2017",12.96],
+                         ["Rata-Rata Pekerja Tahun 2018",13.064],
+                         ["Rata-Rata Pekerja Tahun 2019",12.792]
+                ]
+           },
+
         ],
         "color": "green",
         "markers": []
