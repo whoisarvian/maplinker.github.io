@@ -1066,6 +1066,40 @@
                     ["2017", 263104.16, 1212278.64],
                     ["2018", 237857.88, 1329931.25]
                 ]
+            },
+            {
+                "title": "Jumlah Sarana Kesehatan di RIAU Tahun 2019 ",
+                "type": "BarChart",
+                "columns": ["Label", "Jumlah Sarana Kesehatan"],
+                "data": [
+                    ["Rumah Sakit Umum", 60],
+                    ["Rumah Sakit Khusus", 14],
+                    ["Puskesmas Rawat Inap", 100],
+                    ["Puskesmas Rawat Jalan", 126],
+                    ["Klinik Pratama", 591],
+                    ["Posyandu", 5519]
+                ]
+            },
+            {
+                "title": "Jumlah Rumah Sakit Umum di RIAU",
+                "type": "BarChart",
+                "columns": ["Kabupaten/Kota", "2018", "2019"],
+                "data": [
+                ],
+                "data": [
+                    ["Kuantan Singingi", 1, 1],
+                    ["Indragiri Hulu", 2, 2],
+                    ["Indragiri Hilir", 4, 4],
+                    ["Pelalawan", 4, 4],
+                    ["Siak", 1, 2],
+                    ["Kampar", 3, 3],
+                    ["Rokan Hulu", 4, 4],
+                    ["Bengkalis", 6, 7],
+                    ["Rokan Hilir", 5, 6],
+                    ["Kepulauan Meranti", 1, 1],
+                    ["Pekanbaru", 19, 23],
+                    ["Dumai", 3, 3]
+                ]
             }
             
         ],
