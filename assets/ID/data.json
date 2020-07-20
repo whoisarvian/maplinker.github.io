@@ -341,7 +341,51 @@
 					["2016", 568, 1619],
 					["2015", 188, 377]   
                 ]
-            }
+            },
+            {
+        "title": "JUMLAH MAKANAN DI JAWA TENGAH",
+        "type": "PieChart",
+        "columns": [
+          "Label",
+          "Jumlah Makanan"
+        ],
+        "data": [
+          ["Banjarnegara",6],
+          ["Banyumas",14],
+          ["Batang",4],
+          ["Blora",11],
+          ["Boyolali",12],
+          ["Brebes",9],
+          ["Cilacap",9],
+          ["Demak",3],
+          ["Grobogan",9],
+          ["Jepara",39],
+          ["Karanganyar",8],
+          ["Kebumen",8],
+          ["Kendal",8],
+          ["Klaten",10],
+          ["Kudus",13],
+          ["Magelang",17],
+          ["Pati",10],
+          ["Pekalongan",10],
+          ["Pemalang",13],
+          ["Purbalingga",9],
+          ["Purwodadi",8],
+          ["Purwokerto",15],
+          ["Purworejo",11],
+          ["Rembang",10],
+          ["Salatiga",15],
+          ["Semarang",13],
+          ["Solo",11],
+          ["Sragen",12],
+          ["Sukoharjo",8],
+          ["Tegal",7],
+          ["Temanggung",11],
+          ["Ungaran",3],
+          ["Wonogiri",25],
+          ["Wonosobo",11]
+        ]
+      }
         ],
         "color": "green",
         "markers": []
@@ -500,7 +544,7 @@
         "charts": [{
             "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
             "type": "BarChart",
-            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+            "columns": ["Label","Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
             "data": [
                 ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
                 ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
@@ -518,7 +562,7 @@
         {
             "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
             "type": "ScatterChart",
-            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+            "columns": ["Label","Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
             "data": [
                 ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
                 ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
@@ -536,7 +580,7 @@
         {
             "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
             "type": "LineChart",
-            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+            "columns": ["Label","Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
             "data": [
                 ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
                 ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
