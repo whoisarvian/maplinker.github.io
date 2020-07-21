@@ -1570,33 +1570,85 @@
         "Propinsi": "SUMATERA BARAT",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Jumlah Desa/Kelurahan Menurut Keberadaan Pembakaran Lahan",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kabupaten", "Ada", "Tidak Ada"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kepulauan Mentawai", 18, 25],
+                    ["Pesisir Selatan", 100, 82],
+                    ["Solok", 46, 28],
+                    ["Sijunjung", 43, 19],
+                    ["Tanah Datar", 14, 61],
+                    ["Padang Pariaman", 46, 57],
+                    ["Agam", 41, 50],
+                    ["Lima Puluh Kota", 41, 40],
+                    ["Pasaman", 46, 16],
+                    ["Solok Selatan", 30, 17],
+                    ["Dharmasraya", 32, 20],
+                    ["Pasaman Barat", 59, 32],
+                    ["Padang", 32, 72],
+                    ["Solok", 3, 10],
+                    ["Sawah Lunto", 13, 24],
+                    ["Padang Panjang", 4, 12],
+                    ["Bukit Tinggi", 4, 20],
+                    ["Payakumbuh", 0, 47],
+                    ["Pariaman", 0, 71]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Jumlah Desa/Kelurahan Menurut Keberadaan Lokasi Penggalian Golongan C",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kabupaten", "Ada", "Tidak Ada"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kepulauan Mentawai", 17, 26],
+                    ["Pesisir Selatan", 70, 112],
+                    ["Solok", 31, 43],
+                    ["Sijunjung", 38, 24],
+                    ["Tanah Datar", 35, 40],
+                    ["Padang Pariaman", 56, 47],
+                    ["Agam", 26, 65],
+                    ["Lima Puluh Kota", 60, 21],
+                    ["Pasaman", 41, 21],
+                    ["Solok Selatan", 31, 16],
+                    ["Dharmasraya", 29, 23],
+                    ["Pasaman Barat", 25, 66],
+                    ["Padang", 25, 79],
+                    ["Solok", 2, 11],
+                    ["Sawah Lunto", 18, 19],
+                    ["Padang Panjang", 3, 13],
+                    ["Bukit Tinggi", 1, 23],
+                    ["Payakumbuh", 16, 31],
+                    ["Pariaman", 19, 52]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Jumlah Desa/Kelurahan Menurut Keberadaan Lokasi Penggalian Golongan C",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kabupaten", "Ada", "Tidak Ada"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Kepulauan Mentawai", 17, 26],
+                    ["Pesisir Selatan", 70, 112],
+                    ["Solok", 31, 43],
+                    ["Sijunjung", 38, 24],
+                    ["Tanah Datar", 35, 40],
+                    ["Padang Pariaman", 56, 47],
+                    ["Agam", 26, 65],
+                    ["Lima Puluh Kota", 60, 21],
+                    ["Pasaman", 41, 21],
+                    ["Solok Selatan", 31, 16],
+                    ["Dharmasraya", 29, 23],
+                    ["Pasaman Barat", 25, 66],
+                    ["Padang", 25, 79],
+                    ["Solok", 2, 11],
+                    ["Sawah Lunto", 18, 19],
+                    ["Padang Panjang", 3, 13],
+                    ["Bukit Tinggi", 1, 23],
+                    ["Payakumbuh", 16, 31],
+                    ["Pariaman", 19, 52]
                 ]
             }
         ],
+        "color": "green",
         "markers": []
     },
     {
