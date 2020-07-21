@@ -1187,8 +1187,8 @@
                          ["Rata-Rata Pekerja Tahun 2018",13.064],
                          ["Rata-Rata Pekerja Tahun 2019",12.792]
                 ]
-           }
-                {
+            },
+            {
                 "title": "Tingkat Pengangguran Terbuka (TPT) Menurut Kabupaten/Kota di Provinsi Riau",
                 "type": "BarChart",
                 "columns": [
@@ -1198,11 +1198,10 @@
                  "Perubahan"
                 ],
                 "data": [
-                 ["Kuantan Singingi",2.45, 5.46, 3.01],
+                 ["Kuantan Singingi", 2.45, 5.46, 3.01],
                  ["Indragiri Hulu", 5.89, 8.01, 2.12],
-                 ["Indragiri Hilir ",3.52, 3.33, -0.19],
-                 ["Pelalawan ",3.65, 4.01, 0.36],
-                 ["Siak ",2.46, 2.91, 0,45]
+                 ["Indragiri Hilir", 3.52, 3.33, -0.19],
+                 ["Pelalawan", 3.65, 4.01, 0.36]
                 ]
             } ,
              {
@@ -1218,17 +1217,15 @@
                  ["Kuantan Singingi",63.31, 58.09, -5.22],
                  ["Indragiri Hulu", 62.34, 61.98, -0.36],
                  ["Indragiri Hilir ",67.48, 67.59, 0.11],
-                 ["Pelalawan ",66.37, 65.34, -1.03],
-                 ["Siak ",69.28, 63.63, -5,65]
+                 ["Pelalawan ",66.37, 65.34, -1.03]
                 ]
             },
              {
                 "title": "Total Tingkat Pengangguran Terbuka (TPT) Menurut Kabupaten/Kota di Provinsi Riau",
-                "type": "BarChart",
+                "type": "PieChart",
                 "columns": [
                  "Tahun_2018",
-                 "Tahun_2019",
-                 "Perubahan"
+                 "Tahun_2019"
                 ],
                 "data": [
                  ["Tahun_2018",17.97],
@@ -1238,32 +1235,26 @@
             },
              {
                 "title": "Total Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten/Kota di Provinsi Riau",
-                "type": "BarChart",
+                "type": "PieChart",
                 "columns": [
                  "Tahun_2018",
-                 "Tahun_2019",
-                 "Perubahan"
+                 "Tahun_2019"
                 ],
                 "data": [
-                 ["Tahun_2018",328.78],
-                 ["Tahun_2019",316.63 ],
-                 ["Perubahan ",-12.15]
+                 ["Tahun_2018", 328.78],
+                 ["Tahun_2019", 316.63]
                 ]
             },
-             {
+            {
                 "title": "Total Rata-Rata Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten/Kota di Provinsi Riau",
                 "type": "PieChart",
                 "columns": [
-                 "Rata_Rata_TPT_Tahun_2018",
-                 "Rata_Rata_TPT_Tahun_2019",
                  "Rata_Rata_TPAK_Tahun_2018",
-                 "Rata_Rata_TPAK_Tahun_2019",
+                 "Rata_Rata_TPAK_Tahun_2019"
                 ],
                 "data": [
-                    ['Rata-Rata TPT Agustus 2018', 3.594],
-                    ['Rata-Rata TPT Agustus 2019', 4.744],
-                    ['Rata-Rata TPAK Agustus 2018', 65.756],
-                    ['Rata-Rata TPAK Agustus 2019', 63.326]
+                    ["Rata-Rata TPAK Agustus 2018", 65.756],
+                    ["Rata-Rata TPAK Agustus 2019", 63.326]
                 ]
             }
         ],
