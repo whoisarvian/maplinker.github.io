@@ -2166,7 +2166,7 @@
 
             {
                 "title": "Data Jumlah UMKM",
-                "type": "BarChart",
+                "type": "PieChart",
                 "columns": ["Kabupaten/Kota", "2017"],
                 "data": [
                     ["Kota Cirebon", 369],
