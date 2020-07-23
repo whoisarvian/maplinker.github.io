@@ -2081,6 +2081,49 @@
         "markers": []
     },
     {
+     "ID": 15,
+        "kode": 32,
+        "Propinsi": "JAWA BARAT",
+        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+        "charts": [
+            
+            {
+                "title": "Data Jumlah UMKM",
+                "type": "BarChart",
+                "columns": ["Kabupaten/Kota", "2017"],
+                "data": [
+                    ["Kota Cirebon", 369],
+                    ["Kabupaten Kuningan", 631],
+                    ["Kabupaten Cirebon", 655],
+                    ["Kabupaten Ciamis", 43],
+                    ["Kota Banjar", 163],
+                    ["Kabupaten Majalengka", 652],
+                    ["Kabupaten Indramayu", 870],
+                    ["Kabupaten Pangandaran", 206],
+                    ["Kabupaten Tasikmalaya", 772],
+                    ["Kota Tasikmalaya", 603],
+                    ["Kabupaten Sumedang", 613],
+                    ["Kota Bandung", 2577],
+                    ["Kabupaten Bandung", 1659],
+                    ["Kabupaten Garut", 1417],
+                    ["Kabupaten Subang", 961],
+                    ["Kabupaten Karawang", 1496],
+                    ["Kabupaten Purwakarta", 866],
+                    ["Kota Cimahi", 425],
+                    ["Kabupaten Cianjur", 1458],
+                    ["Kabupaten Bekasi", 1103],
+                    ["Kota Bekasi", 796],
+                    ["Kota Depok", 652],
+                    ["Kota Bogor", 856],
+                    ["Kabupaten Bogor", 1545],
+                    ["Kabupaten Sukabumi", 1765],
+                    ["Kota Sukabumi", 410]
+                ]
+            }
+        ],
+        "markers": []
+    },
+    {
         "ID": 32,
         "kode": 11,
         "Propinsi": "DI. ACEH",
