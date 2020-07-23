@@ -45,10 +45,10 @@
                 "data": [
                     ["2011", 364196, 522648],
                     ["2012", 471706, 691436],
-					["2013", 565944, 791658],
-					["2014", 572306, 876816],
-					["2015", 1061292, 1149235],
-					["2016", 1404328, 1690104]
+                    ["2013", 565944, 791658],
+                    ["2014", 572306, 876816],
+                    ["2015", 1061292, 1149235],
+                    ["2016", 1404328, 1690104]
                 ]
             },
             {
@@ -153,6 +153,7 @@
                 "type": "BarChart",
                 "columns": ["Label", "SDN Layak", "SDN Tidak Layak"],
                 "data": [
+                    ["2020", 1025, 432],
                     ["2019", 1025, 432],
                     ["2018", 1025, 434],
                     ["2017", 1001, 456],
@@ -272,16 +273,16 @@
                     ["2018", 34.88, 40.98]
                 ]
             },
-			{
+            {
                 "title": "Jumlah Sekolah Luar Biasa (SLB) di Jawa Tengah 2015 - 2019",
                 "type": "BarChart",
                 "columns": ["Tahun", "Negeri", "Swasta"],
                 "data": [
                     ["2019", 595, 1659],
-					["2018", 587, 1657],
-					["2017", 586, 1678],
-					["2016", 568, 1619],
-					["2015", 188, 377]   
+                    ["2018", 587, 1657],
+                    ["2017", 586, 1678],
+                    ["2016", 568, 1619],
+                    ["2015", 188, 377]
                 ]
             }
         ],
@@ -401,7 +402,7 @@
                     ["Kediri", 424835, 193563, 199584],
                     ["Jember", 389760, 162708, 171814],
                     ["Madura", 285415, 107320, 109900]
-                    
+
                 ]
             },
             {
@@ -417,7 +418,7 @@
                     ["Kediri", 442018, 410238],
                     ["Jember", 379922, 346622],
                     ["Madura", 262351, 229876]
-                    
+
                 ]
             },
             {
@@ -427,7 +428,7 @@
                 "data": [
                     ["Perempuan", 2520900],
                     ["Laki-Laki", 2760107]
-                                        
+
                 ]
             }
         ],
@@ -440,62 +441,62 @@
         "Propinsi": "MALUKU UTARA",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-            "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
-            "type": "BarChart",
-            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
-            "data": [
-                ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
-                ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
-                ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
-                ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
-                ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
-                ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
-                ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
-                ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
-                ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
-                ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
-                ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
-            ]
-        },
-        {
-            "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
-            "type": "ScatterChart",
-            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
-            "data": [
-                ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
-                ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
-                ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
-                ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
-                ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
-                ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
-                ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
-                ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
-                ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
-                ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
-                ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
-            ]
-        },
-        {
-            "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
-            "type": "LineChart",
-            "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
-            "data": [
-                ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
-                ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
-                ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
-                ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
-                ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
-                ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
-                ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
-                ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
-                ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
-                ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
-                ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
-            ]
-        }
-    ],
-    "color": "green",
-    "markers": []
+                "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
+                "type": "BarChart",
+                "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+                "data": [
+                    ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
+                    ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
+                    ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
+                    ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
+                    ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
+                    ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
+                    ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
+                    ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
+                    ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
+                    ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
+                    ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
+                ]
+            },
+            {
+                "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
+                "type": "ScatterChart",
+                "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+                "data": [
+                    ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
+                    ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
+                    ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
+                    ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
+                    ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
+                    ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
+                    ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
+                    ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
+                    ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
+                    ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
+                    ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
+                ]
+            },
+            {
+                "title": "Persentase Jumlah Penduduk Menurut Agama yang Dianut",
+                "type": "LineChart",
+                "columns": ["Islam", "Protestan", "Katolik", "Hindu", "Budha", "Lainnya"],
+                "data": [
+                    ["Halmahera Barat", 41.47, 57.25, 1, 0.01, 0, 0],
+                    ["Halmahera Tengah", 81.52, 17.90, 0.58, 0, 0, 0],
+                    ["Kepulauan Sula", 97.87, 0.85, 1.28, 0, 0, 0],
+                    ["Halmahera Selatan", 86.06, 13.73, 0.21, 0, 0, 0],
+                    ["Halmahera Utara", 43.79, 55.17, 1.02, 0.01, 0, 0],
+                    ["Halmahera Timur", 71, 28.69, 0.29, 0.01, 0, 0],
+                    ["Pulau Morotai", 63.21, 36.22, 0.57, 0, 0, 0],
+                    ["Pulau Taliabu", 84.56, 13.07, 2.37, 0, 0, 0],
+                    ["Ternate", 96.49, 2.90, 0.53, 0.03, 0.05, 0.05],
+                    ["Tidore Kepulauan", 91.67, 8.32, 0, 0, 0, 0],
+                    ["Maluku Utara", 75.34, 23.96, 0.68, 0.01, 0.01, 0]
+                ]
+            }
+        ],
+        "color": "green",
+        "markers": []
     },
     {
         "ID": 10,
@@ -915,7 +916,7 @@
                     ["2018", 237857.88, 1329931.25]
                 ]
             }
-            
+
         ],
         "color": "green",
         "markers": []
@@ -1300,7 +1301,7 @@
                     ["Ubi Jalar", 15023]
                 ]
             },
-             {
+            {
                 "title": "Luas Lahan Jenis Tanaman Pangan Prov.SUMSEL Th.2019",
                 "type": "BarChart",
                 "columns": ["Label", "Luas Lahan(Hektar)"],
@@ -1439,17 +1440,17 @@
                 "data": [
                     ["Way kanan", 59],
                     ["Tulang bawang", 15],
-					["Pesawaran", 10],
-					["Pringsewu", 13],
-					["Mesuji", 12],
-					["Tulang bawang barat", 11],
-					["Pesisir barat", 0],
-					["Bandar lampung", 26],
-					["Metro", 8]
+                    ["Pesawaran", 10],
+                    ["Pringsewu", 13],
+                    ["Mesuji", 12],
+                    ["Tulang bawang barat", 11],
+                    ["Pesisir barat", 0],
+                    ["Bandar lampung", 26],
+                    ["Metro", 8]
                 ]
             }
         ],
-		"color": "green",
+        "color": "green",
         "markers": []
     },
     {
@@ -1488,12 +1489,12 @@
         "markers": []
     },
     {
-     "ID": 15,
+        "ID": 15,
         "kode": 32,
         "Propinsi": "JAWA BARAT",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [
-            
+
             {
                 "title": "Data Jumlah UMKM",
                 "type": "BarChart",
