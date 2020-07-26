@@ -1216,6 +1216,18 @@
                 ]
             },
             {
+                "title": "Jumlah perguruan tinggi Prov.Riau",
+                "type": "BarChart",
+                "columns": ["Label", "Jumlah Perguruan Tinggi"],
+                "data": [
+                    ["Universitas", 10],
+                    ["Politeknik", 6],
+                    ["Sekolah Tinggi", 63],
+                    ["Institut", 5],
+                    ["Akademi", 27]
+                ]
+            },
+            {
                 "title": "Persentase Penduduk Bekerja Menurut Lapangan Pekerjaan Utama di Provinsi Riau Agustus 2017- Agustus 2019",
                 "type": "BarChart",
                 "columns": [
