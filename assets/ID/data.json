@@ -1321,33 +1321,167 @@
         "Propinsi": "SULAWESI TENGAH",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Bar Charts",
+                "title": "Jumlah Kelurahan di Propinsi Sulawesi Tengah",
                 "type": "BarChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kabupaten/Kota", "Kelurahan"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Banggai", 337],
+                    ["Banggai Kepulauan", 144],
+                    ["Banggai Laut", 66],
+                    ["Buol", 115],
+                    ["Donggala", 167],
+                    ["Morowali", 133],
+                    ["Morowali Utara", 125],
+                    ["Parigi Moutong", 283],
+                    ["Poso", 166],
+                    ["Sigi", 176],
+                    ["Tojo Una-Una", 146],
+                    ["Tolitoli", 106],
+                    ["Palu", 45]
                 ]
             },
             {
-                "title": "Scatter Charts",
+                "title": "Jumlah Kelurahan di Propinsi Sulawesi Tengah",
                 "type": "ScatterChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kabupaten/Kota", "Kelurahan"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Banggai", 337],
+                    ["Banggai Kepulauan", 144],
+                    ["Banggai Laut", 66],
+                    ["Buol", 115],
+                    ["Donggala", 167],
+                    ["Morowali", 133],
+                    ["Morowali Utara", 125],
+                    ["Parigi Moutong", 283],
+                    ["Poso", 166],
+                    ["Sigi", 176],
+                    ["Tojo Una-Una", 146],
+                    ["Tolitoli", 106],
+                    ["Palu", 45]
                 ]
             },
             {
-                "title": "Line Charts",
+                "title": "Jumlah Kelurahan di Propinsi Sulawesi Tengah",
                 "type": "LineChart",
-                "columns": ["Label", "Data 1", "Data 2"],
+                "columns": ["Kabupaten/Kota", "Kelurahan"],
                 "data": [
-                    ["Label 1", 23, 56],
-                    ["Label 2", 34, 56]
+                    ["Banggai", 337],
+                    ["Banggai Kepulauan", 144],
+                    ["Banggai Laut", 66],
+                    ["Buol", 115],
+                    ["Donggala", 167],
+                    ["Morowali", 133],
+                    ["Morowali Utara", 125],
+                    ["Parigi Moutong", 283],
+                    ["Poso", 166],
+                    ["Sigi", 176],
+                    ["Tojo Una-Una", 146],
+                    ["Tolitoli", 106],
+                    ["Palu", 45]
+                ]
+            },
+            {
+                "title": "Jumlah Kelurahan di Propinsi Sulawesi Tengah",
+                "type": "PieChart",
+                "columns": ["Kabupaten/Kota", "Kelurahan"],
+                "data": [
+                    ["Banggai", 337],
+                    ["Banggai Kepulauan", 144],
+                    ["Banggai Laut", 66],
+                    ["Buol", 115],
+                    ["Donggala", 167],
+                    ["Morowali", 133],
+                    ["Morowali Utara", 125],
+                    ["Parigi Moutong", 283],
+                    ["Poso", 166],
+                    ["Sigi", 176],
+                    ["Tojo Una-Una", 146],
+                    ["Tolitoli", 106],
+                    ["Palu", 45]
+                ]
+            },
+            {
+                "title": "Jumlah Penduduk di Propinsi Sulawesi Tengah",
+                "type": "BarChart",
+                "columns": ["Kabupaten/Kota", "Laki-laki", "Perempuan", "Total"],
+                "data": [
+                    ["Banggai", 180.388, 174.014, 354.402],
+                    ["Banggai Kepulauan", 58.011, 56.969, 114.980],
+                    ["Banggai Laut", 35.003, 34.511, 69.514],
+                    ["Buol", 76.284, 72.720, 149.004],
+                    ["Donggala", 150.224, 143.518, 293.742],
+                    ["Morowali", 57.820, 55.312, 113.132],
+                    ["Morowali Utara", 61.474, 56.196, 117.670],
+                    ["Parigi Moutong", 234.912, 222.795, 457.707],
+                    ["Poso", 121.974, 113.593, 235.567],
+                    ["Sigi", 	117.794, 111.680, 229.474],
+                    ["Tojo Una-Una", 75.432, 72.104, 147.536],
+                    ["Tolitoli", 115.205, 110.670, 225.875],
+                    ["Palu", 185.105, 182.981, 368.086]
+                ]
+            },
+            {
+                "title": "Jumlah Penduduk di Propinsi Sulawesi Tengah",
+                "type": "ScatterChart",
+                "columns": ["Kabupaten/Kota", "Laki-laki", "Perempuan", "Total"],
+                "data": [
+                    ["Banggai", 180.388, 174.014, 354.402],
+                    ["Banggai Kepulauan", 58.011, 56.969, 114.980],
+                    ["Banggai Laut", 35.003, 34.511, 69.514],
+                    ["Buol", 76.284, 72.720, 149.004],
+                    ["Donggala", 150.224, 143.518, 293.742],
+                    ["Morowali", 57.820, 55.312, 113.132],
+                    ["Morowali Utara", 61.474, 56.196, 117.670],
+                    ["Parigi Moutong", 234.912, 222.795, 457.707],
+                    ["Poso", 121.974, 113.593, 235.567],
+                    ["Sigi", 	117.794, 111.680, 229.474],
+                    ["Tojo Una-Una", 75.432, 72.104, 147.536],
+                    ["Tolitoli", 115.205, 110.670, 225.875],
+                    ["Palu", 185.105, 182.981, 368.086]
+                ]
+            },
+            {
+                "title": "Jumlah Penduduk di Propinsi Sulawesi Tengah",
+                "type": "LineChart",
+                "columns": ["Kabupaten/Kota", "Laki-laki", "Perempuan", "Total"],
+                "data": [
+                    ["Banggai", 180.388, 174.014, 354.402],
+                    ["Banggai Kepulauan", 58.011, 56.969, 114.980],
+                    ["Banggai Laut", 35.003, 34.511, 69.514],
+                    ["Buol", 76.284, 72.720, 149.004],
+                    ["Donggala", 150.224, 143.518, 293.742],
+                    ["Morowali", 57.820, 55.312, 113.132],
+                    ["Morowali Utara", 61.474, 56.196, 117.670],
+                    ["Parigi Moutong", 234.912, 222.795, 457.707],
+                    ["Poso", 121.974, 113.593, 235.567],
+                    ["Sigi", 	117.794, 111.680, 229.474],
+                    ["Tojo Una-Una", 75.432, 72.104, 147.536],
+                    ["Tolitoli", 115.205, 110.670, 225.875],
+                    ["Palu", 185.105, 182.981, 368.086]
+                ]
+            },
+            {
+                "title": "Jumlah Penduduk di Propinsi Sulawesi Tengah",
+                "type": "PieChart",
+                "columns": ["Kabupaten/Kota", "Laki-laki", "Perempuan", "Total"],
+                "data": [
+                    ["Banggai", 180.388, 174.014, 354.402],
+                    ["Banggai Kepulauan", 58.011, 56.969, 114.980],
+                    ["Banggai Laut", 35.003, 34.511, 69.514],
+                    ["Buol", 76.284, 72.720, 149.004],
+                    ["Donggala", 150.224, 143.518, 293.742],
+                    ["Morowali", 57.820, 55.312, 113.132],
+                    ["Morowali Utara", 61.474, 56.196, 117.670],
+                    ["Parigi Moutong", 234.912, 222.795, 457.707],
+                    ["Poso", 121.974, 113.593, 235.567],
+                    ["Sigi", 	117.794, 111.680, 229.474],
+                    ["Tojo Una-Una", 75.432, 72.104, 147.536],
+                    ["Tolitoli", 115.205, 110.670, 225.875],
+                    ["Palu", 185.105, 182.981, 368.086]
                 ]
             }
         ],
+        "color":"green",
         "markers": []
     },
     {
