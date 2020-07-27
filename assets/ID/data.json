@@ -2381,5 +2381,25 @@
             }
         ],
         "markers": []
+    },
+     {
+        "ID": 33,
+        "kode": 12,
+        "Propinsi": "DAERAH ISTIMEWA YOGYAKARTA",
+        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+        "charts": [{
+                "title": "Data jumlah sekolah luar biasa di kota Yogyakarta",
+                "type": "BarChart",
+                "columns": ["Label", "Wilayah", "Jumlah"],
+                "data": [
+                    ["Label 1", 188, 762],
+                    ["Label 2", 288, 661],
+                    ["Label 3", 365, 561],
+
+                ]
+            }
+        ],
+        "color": "green",
+        "markers": []
     }
 ]
